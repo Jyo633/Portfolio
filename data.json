@@ -1,0 +1,4446 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": true,
+	"Categorys": [
+		{
+			"Category": "航空機メイン",
+			"Worlds": [
+				{
+					"ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
+					"Name": "Test Pilots",
+					"RecommendedCapacity": 16,
+					"Capacity": 44,
+					"Description": "For those who love flying․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8ca5cabc-4122-4858-96d6-9d2b9c084a12",
+					"Name": "ごまさば群島 - Gomasaba archipelago",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "SaccFlightAndVehiclesを使用した乗り物ワールドです。プロペラ機、ヘリ、自動車、ボートに乗ることができます。乗り物同士は無線が繋がっています。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_21011c92-5620-4f83-b90b-56c036062c61",
+					"Name": "Jaco航空基地 -Jaco Air Base-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "SaccFlightAndVehiclesを使用した非武装軍用機ワールドです world音量25％以下推奨 タイムアタックコース、着艦可能な空母があります",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b4e30304-bfec-4bff-a460-aed2bd1fe187",
+					"Name": "サヴァ大峡谷 - Sava Great Canyon",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "50km四方の架空軍用機ワールドです。Fox1を装備する戦闘機、軽攻撃機、初心者向け飛行機、武装ヘリが配置されています。 峡谷の両端にある橋は通り抜けできません",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_801dae99-3d17-49e5-b277-6edd406e529b",
+					"Name": "鯖砂漠 in Public （for training of dogfight）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "SF-1で1on1ドッグファイトを行う為のワールドです。原点から9000m離れた地点にある機体にテレポートした後離陸して対戦することを想定しています。 簡単な解説が表示可能です。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1e7191ad-e1f5-481a-ac7e-1d0fa17ecc42",
+					"Name": "鯖研 湖畔飛行場 YVL airport",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "焼鯖仮想研究所で公開しているsacc対応Vehicleのうち、ジェット機以外に乗ることができるワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b7f8e7e3-2cdc-4116-8fae-9d5773eee9f1",
+					"Name": "saba Lake レシプロ水上飛行機ワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "水上機と小型艇に乗れるワールドです 機体リスポーン付近の水面が補給ゾーンになっています",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ada00aba-8519-4e5d-b2b8-ab7f258032d4",
+					"Name": "1vs1ドッグファイトワールド 零 - prop plane 1on1",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "帝国海軍の練習機をモデルにした飛行機の1on1ドッグファイト用ワールドです。少々難しい機体ですが反トルクはなくしています。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2717b7e5-9ba9-4a67-a710-89dcdc7cbfa3",
+					"Name": "1vs1ドッグファイトワールド 白和邇 - he-gou Dogfight world",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "オリジナルジェット戦闘機を使った1vs1ドッグファイトの為のワールドです。 テレポートスイッチの先に向かい合う形で機体が置かれています。 機体にはミサイルのロックオン警報が無く、いきなり発射警報が鳴りますのでご注意ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_27027d33-224d-465b-b116-992eb84aaab0",
+					"Name": "City MIO for Vehicle World",
+					"RecommendedCapacity": 25,
+					"Capacity": 35,
+					"Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 架空の島、City澪を舞台に、車、飛行機、ヘリコプター。全てで楽しめるワールドです！ お風呂、プールもあるので、くつろぎにもどうぞ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d584b4d2-f20d-4338-a95d-1899dbaf8a8d",
+					"Name": "Viper Valley˸ F-16 vs MiG-29SMT",
+					"RecommendedCapacity": 16,
+					"Capacity": 64,
+					"Description": "My first ever flight world featuring the F-16 and MiG-29SMT․ su-24 and su-34 coming soon",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3f28d19a-b908-46c2-b741-059d1f51a326",
+					"Name": "夕暮れごまさば群島 Dusk Gomasaba archipelago",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ごまさば群島夕暮れ版",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2065ca27-47a8-4ae1-8b73-b8e6cd66d642",
+					"Name": "Variable Aircraft1 《高速可変機》",
+					"RecommendedCapacity": 20,
+					"Capacity": 36,
+					"Description": "《戦闘機ー私がそう認識していたものは、瞬間に姿を変えた。》 人型に変形できる戦闘機のワールドです！ 戦闘もできます！お楽しみください！（版権機体は存在しません。いわゆる、リスペクトワールドです！デザインに関しては自身で起こしたものですので、安心してお楽しみください！）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_77ecb66d-00d9-45c1-952b-aedf356a2ede",
+					"Name": "Variable Aircraft2《セントエレア宙域》",
+					"RecommendedCapacity": 25,
+					"Capacity": 35,
+					"Description": "「可変機、空のその先へー」飛行機から人型に変形できる フライトワールドです！お風呂やカフェもありますので飛ばなくても、皆で一緒に楽しんでくれると嬉しいです！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_60789260-8b8a-4f20-972a-21ffe4eda10f",
+					"Name": "Variable Aircraft《無重力フライト》",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 可変機の宇宙遊泳ワールドです！ プカプカ浮く感覚をお楽しみください！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6d58b3d8-8d02-490b-94ad-732205e3b0c0",
+					"Name": "FLAME HORIZON《フレーム・ホライゾン 人型攻撃機》",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 人型の攻撃機、フレームアタッカーにのって自由自在に駆け回りましょう！ 設定上、黒と白の陣営が存在していますが、関係なく自由に遊べますǃ 戦闘、遊覧、魅せプレイ。ご自由に遊んでくださいな！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4ff1d4db-e251-4247-80e0-a9e53e36384e",
+					"Name": "FLAME HORIZON2《フレームホライゾン2 小惑星決戦》",
+					"RecommendedCapacity": 20,
+					"Capacity": 30,
+					"Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 フレームホライゾンの第2作目です！ 互いの陣営が激突する中で、戦うも良し、PVもよし、自由に遊んでくださいな！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6d2fa0f8-a336-4730-abdb-1a48aea6e5ff",
+					"Name": "Fantasy Airport 秘境、ルアフォートにて",
+					"RecommendedCapacity": 20,
+					"Capacity": 32,
+					"Description": "推奨ハッシュタグ「＃VRC_SSYWorld 」 観光sightseeing×お風呂bath×カフェcafe×飛行flight！ 異世界をテーマに何でも出来るワールドを目指しました！ 異世界で自由気ままに過ごして見ませんか？",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6bf16df2-2eed-4eb0-b842-33e2f8357417",
+					"Name": "fantasy airfield~winter~",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "連合王国エルファスが所有する最新鋭の魔導空母ラーグルフ。 向かう先はー冬の遺跡であった",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f76f9974-9c8b-49b1-83d3-3a1f9b4da8cf",
+					"Name": "city湊 for Helicopters",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "美しい港町、city湊。 たくさんのヘリと共に、編隊飛行や練習にどうぞ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1acce4ce-8258-4b35-bb9c-225b4a4c1f63",
+					"Name": "City 幕ノ張 for AirRace",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "幕張を舞台に、現実のエアレースを模したコースを飛べるワールドです。 機敏な上級者機体を操って、タイムアタックをしてみませんか？",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2acbbdb3-2da1-45ab-8a85-76ec7a67d435",
+					"Name": "Flight world of VRAF BASE2",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "VRCのflight系グループ、V․R․A․Fのフライトワールド「ウォーターアイランド基地」です！ ここでしか乗れない機体等がある、 VRAFのワールドの一つですǃ 良ければ遊んでくださいねǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e16c5a30-5435-47f8-bf38-44385f6ac3a5",
+					"Name": "VR Narita Airport《NRT⁄RJAA》",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "11airplanesǃ Let`s flight trainingǃǃ formation＆acrobat Flightǃ 推奨ハッシュタグ「＃VRC_SSYWorld 」日本の成田空港を舞台に自由に飛びましょう！ 豊富な種類の機体を用意してます！武器はついていないのでのんびり飛べますよ～",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_40c04871-dd5f-411e-9d3c-d9ec97b8b9cb",
+					"Name": "VR Matsumoto airport《RJAF》《MMJ》",
+					"RecommendedCapacity": 18,
+					"Capacity": 36,
+					"Description": "松本空港！プール！フライトǃ カフェ要素も楽しめますよ～！！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a7c68013-4a50-4807-a223-8b0f87225b20",
+					"Name": "night skyfield 夜天に駆ける",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "夜に舞う、機械翼。 ドッグファイト、アクロバット、魅せpvなどにどうぞǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_38936578-1ed6-45b7-885b-7bf6904b77bf",
+					"Name": "AirPlane Xfield 《RJBB》",
+					"RecommendedCapacity": 18,
+					"Capacity": 36,
+					"Description": "登場機体は計画機、実験機のみ！ ロマン溢れる機体達で遊びましょう！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1227f5df-4335-47a8-8a7d-734ca67cdef5",
+					"Name": "Studio-Symphonys- for Propeller Plane",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "BoothshopのStudio-Symphonys-にて販売している機体の中でプロペラ機体をまとめた試乗ワールドになっています。ぜひ遊んでみてくださいな",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0f5a4ee9-06f0-4522-a8d9-11298b15bffb",
+					"Name": "studio-symphonys- for flight world1",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "studio-symphonys-としてboothに置いている物を置いてます！ 普通に飛んだりして遊べるので是非遊んでくださいー！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7a499147-d392-4962-b67a-03edb6dd1e66",
+					"Name": "Studio-Symphonys- Flight World for Fictional Aircraft",
+					"RecommendedCapacity": 25,
+					"Capacity": 30,
+					"Description": "Booth shopのStudio-Symphonys-にて販売している、架空機のワールドです！ 良ければどうぞ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ca733846-e00a-43ca-ae8c-a21e721ae48f",
+					"Name": "人型兵器試験基地",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "studio-symphonys-様、発売中の人型兵器BGG06、BGGR05、BGG09、BGGR08を格納庫から出撃っぽいことができるワールド2024⁄9⁄1update˸地形のアップデート ビルや輸送機の追加 Humanoid weapon test base",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_299e72f1-cb66-4ae1-a881-1c2da13dbe14",
+					"Name": "海と大地と飛行機雲",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "プロペラ機から謎の飛行機、空中や海上空母など、無線搭載済み。いろんな要素を放り込んだカジュアルな飛行機ワールドです。空母や滑走路に着陸すると弾薬など補給可能です。ワールド各所に隠し飛行機があります。You can refuel on the runway․There are a lot of planes hidden in it․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_02b6fd07-7e43-4bf7-a6f1-308782ddbfbb",
+					"Name": "空と大地と飛行機雲2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "無線搭載で、半径10キロ以内の戦闘機同士または管制塔で通話が可能です。また管制塔にて無線チャンネルの変更、モニターを確認できます。通信距離範囲外では無線は使用できません。滑走路上で回復および補給が可能となっております。車用のサーキットも併設。洞窟内で戦車バトルも可能。時代無視のファンタジーな飛行機ワールドで楽しんで頂ければなと思います。 Equipped with a radio‚ it is possible to communicate with each other within a radius of 10 km or from the control tower․ You can also check the radio channel change and monitor at the control tower․ It is possible to recuperate and resupply on the runway․ There is a circuit where you can also race cars․Tank battles in caves․I hope you enjoy it in a fantasy airplane world that ignores the times․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bca8c833-1952-45ff-b77b-8a9e4e59597e",
+					"Name": "Eternal Voyage",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "仲間と過ごすひと時は、何事にも変えることはできない。永遠に続く航海は、今も良き思い出を作り続ける。そう、この航海に危険などありえないのだ。 Eternal voyage makes pleasant memories with companions There is no danger in this voyage",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0679be89-ab9d-46c3-b5f5-b7ed05a78022",
+					"Name": "Aircraft Carrier Jets˸ F-14",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Aircraft Carrier Jets˸ F-14 ｜ Dominate the skies with the Iconic F-14 Tomcat and more․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6851ac71-ee38-4c5a-a918-400fdeb3b7b8",
+					"Name": "Tokyoflight23",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "PLATEAUを使用した飛行機を飛ばせるワールドの23区の大きさ版です。20240623update",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3ed3b5fe-a73f-492f-888e-63df16a5c2ab",
+					"Name": "Tokyoflight Shinjuku",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "国土交通省の３DモデルPLATEAUを使用した新宿の町を飛び回れるワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4771fd04-0164-4e5c-bccf-3a61f850b35a",
+					"Name": "Tokyoflight rinkai⁄haneda",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "国土交通省の３DモデルPLATEAUを使用した臨海・羽田空港周辺を飛び回れるワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4f0a2358-2511-4f57-8f33-5f710f801001",
+					"Name": "Skyward Night Flight",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Enjoy a full moon night while flying original aircraft‚ including a seven-seater aircraft designed in-house and a two-seater self-launched glider while you ride the air currents with your friends~ǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5bac3a4d-fcd6-4f9e-a240-88d5fa9b2fd9",
+					"Name": "Skyward Island Resort~",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Welcome to the Skyward Island Resortǃ Enjoy flying and gliding in a relaxed tropical island environment with your friendsǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e8be929d-90dc-49ac-b837-eb2bdca2cff9",
+					"Name": "Colibri Dogfight Center",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Colibris galore~ǃ Dogfight with your friends on an all original aircraft made by Hueman and Cubeboyy from Skyward Flight Media․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_aed3666b-b391-4256-ae0d-472c689eb3aa",
+					"Name": "Skyward x Dogfight Central Tournament",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Skyward x Dogfight Central Tournament",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2f4a258e-aad0-4b0e-a540-647d9ddf74ca",
+					"Name": "Vol de Nuit （Night Flight）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Chill at the campsite or fly through a storm․ Vol de Nuit （Night Flight）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b0eb9b72-2498-47c2-9bc3-d24aca5aed71",
+					"Name": "Just Urban CAS",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "PVE CO-OP Urban CAS world Enjoy itǃ ｜ PS․ it's a test‚demo world‚ so there might be a bug․ ｜ Contact me ˸ （Discord） 5Sori ‚（Twitter） ＠5So2_",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_37b0eeae-86ce-42e0-9600-81be88d65028",
+					"Name": "Case III - Carrier in a Storm -",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "It is a world where you can experience a aircraft carrier in a storm․ Try landing and flying in low visibilityǃ There are also several features such as TACAN and ILS automated LSO․ Some features may not work or there may be bugs due to work in progress․ ∗ Recent Update ˸ Adjust plane's seat‚ Fixed HMD func of heli",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4adc8df7-3e2a-44c2-a49b-940e97c5dac7",
+					"Name": "Night Raiders",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "βeta］ Gulf war vibe night Air to surface PVE world․ Work with a friend to experience JTAC or Buddy lasing․ AI surface-to-air targets in the eastern townǃ Let's air raid ǃ Update˸ Ejection Seat （Testing）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_937af348-0e20-4245-9d9c-735eae923080",
+					"Name": "BlackCats ˸ Maritime Interdictor",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "第二次世界大戦・太平洋戦線。 あなたは夜間奇襲を担うブラックキャット部隊のパイロット。 漆黒に塗られたPBYカタリナで、 暗闇を進むNPC輸送船団を追跡し、撃沈せよ。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_605da853-4299-4e0e-9b56-1ce631b4310a",
+					"Name": "Intercept˸ Broken Sky",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Protect aircraft carrier from AI fighters and bombersǃ It's a kind of gimmick demo world AI戦闘機と爆撃機から空母を守れ！ ギミックデモを兼ねて作ったワールドです。 ＃VRC_BrokenSky",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_733fdb4c-5fe0-45f9-a6b9-50bf2f768405",
+					"Name": "OCE31 - Chryse",
+					"RecommendedCapacity": 8,
+					"Capacity": 24,
+					"Description": "［v0․4․8c］Humanity's last resort․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3b384bf4-b51e-4edc-9d20-b91ced7ae0b7",
+					"Name": "日本列島 1˸1 Real Scale Japan（OWML）（PC⁄Quest）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "1˸1リアルスケールの日本列島です。（縦横約3000kmx3000km） Zhakamizhako氏によるOWMLシステムにより実現しました。 日本の空港 全97箇所＋αに離着陸できる様、滑走路を追加しました（簡易的な再現）。今後もアップデートします。 OWML˸Open World Movement Logic System for SaccFlight_____This is a 1˸1 real scale of the Japanese archipelago （approximately 3000km x 3000km）․ It was realized by the OWML system by Mr․ Zhakamizhako․ Runways have been added to all 97＋α airports in Japan so that planes can take off and land （simplified reproduction）․ I will continue to update this world․ OWML˸Open World Movement Logic System for SaccFlight․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dd7618dc-b7cf-483c-b256-7e65bdb6b0a2",
+					"Name": "天空母 Tenkubo （PC⁄Quest）",
+					"RecommendedCapacity": 16,
+					"Capacity": 64,
+					"Description": "天空の雲海に浮かぶ空母です。 艦橋でくつろげるようにしました。 ミサイルを沢山（数万発）発射できる様にしています。 浮いている敵UFOに発射してください。 今後もアップデートしていきます！ An aircraft carrier floating over the cloud․ You can relax on the bridge of aircraft carrier․ The aircrafts are set up to fire a large number of missiles （around tens of thousands）․ Please fire at the floating enemy UFO․ I will continue to updateǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6b5eace9-4303-4d3f-b051-d8f10c003e6c",
+					"Name": "Aviator's Holiday：アビエイターの休日",
+					"RecommendedCapacity": 50,
+					"Capacity": 50,
+					"Description": "飛んでも飛ばなくても楽しいビーチワールド！This is a fun beach world whether you fly or not！ Here is M1 Abrams（戦車）‚ 初心者向け水上練習機 SeaPlane Trainer for beginner‚ F-14 Tomcat‚ F-15N Sea Eagle‚ F⁄A-18 Hornet‚ F-35C Lightning II‚ Rafale M（ラファールM）‚ SU-33 Flanker-D‚ 九七式飛行艇 Kawanishi H6K Mavis‚ 零式艦上戦闘機六二型 Mitsubishi A6M7 Zero Fighter‚ 無人攻撃機 UCAV‚ 輸送ヘリ Transport Helicopter‚ and 麻雀 Mahjong！for PC v1․58e（Jul․ 30th‚ 2024）‚ for Android v1․58e（Jul․ 30th‚ 2024）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_caf90a82-5287-4d27-bd2d-a1103f2b5d7d",
+					"Name": "八丈島 Hachijojima",
+					"RecommendedCapacity": 10,
+					"Capacity": 40,
+					"Description": "八丈島。遊覧や空戦にどうぞ。 Hachijojima‚Tokyo‚Japan",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7350258e-4c9c-4b92-b404-3ce6f3db5f18",
+					"Name": "PrimaryGliders",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "23⁄3⁄29 Updated プライマリーグライダー（初級滑空機）で空を飛べるワールドです Sacc's Flight and Vehicles 1․62",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4759fd37-a4e7-4de6-87b2-7d672b152b64",
+					"Name": "JAG Assets ˸ Light aircrafts",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "25⁄10⁄19 Updated 水上機や複葉機に乗れるワールドです。 Sacc's Flight and Vehicles 1․71a 置いてある飛行機はboothにて購入できます。 https˸⁄⁄jagassets․booth․pm",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_793ddc60-53ce-432b-b942-ceba2b8268ea",
+					"Name": "航空喫茶「アルカンジュ」 ⁄ Aviation Café ＂Archange＂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "航空機を眺めながらコーヒーを味わえる「航空喫茶」です。空戦が苦手な方も楽しめる安全な練習機やくつろげる環境をご用意しております。どうぞごゆるりとお過ごしください。 This is an ＂aviation cafe＂ where you can enjoy a cup of coffee while watching aircraft․ We have safe training aircraft and a relaxing environment that even those who are not good at air combat can enjoy․ Please enjoy your time at your leisure․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f49f08b8-31ae-483e-b9b3-ca86760350d2",
+					"Name": "はいぱードッグファイトチャンバー-Hyper Dogfight Chamber-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "戦闘機ドッグファイト用のワールドです。ハンディキャップ機能や、リプレイ機能、ステージ変更機能など、機能盛り盛りのワールドとなっています。 This is a world for dogfighting․ The world is full of features such as handicap function‚ replay function‚ stage change function‚ etc․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_446ed9bf-5345-44a9-ac01-a0ce889d48f8",
+					"Name": "はいぱーひとり編隊 -Hyper Single Formation-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "自動で動く隊長機と一人で編隊飛行の練習ができます。一人で練習するもよし、皆でスコアを競っても良しのワールドとなっております！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f6848221-84d9-4694-a4e1-43f69980a8cf",
+					"Name": "はいぱーふらいとぷらくてぃす -Hyper Flight Practice-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "You can practice piloting airplanes on the race course․ 戦闘機の操縦の練習ができるよ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bd5474da-9f92-448e-9076-de2716e2e20a",
+					"Name": "はいぱーへりぷらくてぃす -Hyper Heli Practice-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "へりの操縦の練習ができるよ You can practice piloting a helicopter․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ed185466-b4af-431a-b4fe-3c3ce792330c",
+					"Name": "はいぱーがんすとらいだー -Hyper Gun Strider-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "戦闘機のスコアアタックワールドです！動かないターゲットから、固定機銃や敵機体と戦ってGUNの練習が出来ます！ This is a score attack world of fighter planesǃ You can practice your GUN skills by fighting against immobile targets‚ fixed machine guns and enemy aircraftǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0abc30ad-cfd3-4604-a12b-e37195051c0a",
+					"Name": "はいぱーPSMれぎおねーたー -Hyper PSM Legionator -",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "PSM機体を使うレースコースを通じてPSMの練度を高めることを目的としたワールドです。 The purpose of this world is to improve the proficiency of PSM through a race course using PSM aircraft",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bf3539c3-c295-4cea-a03e-092131e09fb7",
+					"Name": "はいぱーほらいぞん -Hyper Horizon-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "戦闘機のタイムアタックワールドです。一度クリアすると同じ軌跡で飛ぶゴーストが表示されるようになったり、いろいろな驚きギミックが搭載されたタイムアタックが楽しめます！ This is a time attack world of fighter planes․ Once cleared‚ you will see a ghost flying on the same trajectory as you․ You can enjoy time attack with various other surprise gimmicksǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_20637287-fbae-4407-8ada-3655e223f929",
+					"Name": "はいぱーあびす -HyperAbyss-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "戦闘機のタイムアタックワールドです。一度クリアすると同じ軌跡で飛ぶゴーストが表示されるようになったり、いろいろな驚きギミックが搭載されたタイムアタックが楽しめます！ This is a time attack world of fighter planes․ Once cleared‚ you will see a ghost flying on the same trajectory as you․ You can enjoy time attack with various other surprise gimmicksǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_204dbeb8-49a3-4140-9889-df8eee70f3a1",
+					"Name": "Riezet Flight Home T2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "夕陽と海 飛行機で自由に、平和に飛び、心を宥める Sunset and the sea Fly freely and peacefully on a plane and soothe your heart",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_36c04812-fc83-438e-99e1-1a99d06f5493",
+					"Name": "Riezet Flight Home T4․5",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "RFH4 with Jet Plane",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_26884c1b-a409-4221-a5c2-000c0f1aae3e",
+					"Name": "Riezet Flight Home T4",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "周りを湖や河川（流れはありません）に囲まれた、山岳地帯の飛行場です 練習などにどうぞ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7e2cada8-0894-434b-9045-fd71be224a20",
+					"Name": "Riezet Flight Home T2R",
+					"RecommendedCapacity": 12,
+					"Capacity": 22,
+					"Description": "in Niigata AP（新潟空港） フライトホームシリーズ最初のT2のリメイク的なワールドT2R。 島を1周する自動運行の電車（気動車？）は初期位置（空港）除き3箇所に停車します（停車時間は約2分）。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_91695d04-d014-48e4-8511-5c3c6c5a76ac",
+					"Name": "Aerobatics Flight Home ․Q",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "・動画プレイヤー、プレイリスト、ミラー、QV PEN 飛行機はプロペラ機のみ（ヘリコプターが1機） ・曲技飛行（エアロバティックス）を前提にした軽やかな挙動の機種 ・穏やかな挙動の並列複座型機 EN ・Video player‚ playlist‚ mirror‚ QV PEN Only propeller planes （one helicopter） ・Lightweight aircraft designed for aerobatics ・Parallel two-seater aircraft with gentle movements （Sorry‚World Data is Lost）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0639fa28-7dd7-4b97-b6ab-2a81160fb895",
+					"Name": "Just Vertigo（空間識失調）",
+					"RecommendedCapacity": 12,
+					"Capacity": 18,
+					"Description": "宙からもビルが生えて まさしくバーティゴ不可避なセカイ。修正したらデータ壊れちゃったので新しく作り直しました。 マップデータは ZENRINの「Japanese Otaku City」を使用しています。BGMはGunsehaさんの「Happy Hardcore」を使用しています",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_39c25ee2-bd3f-4068-8f1b-e696adae0007",
+					"Name": "練習島 飛行場 （Flight Training Island）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "初心者が飛べるようになるための練習用につくりました 実在する島をモチーフにレシプロ機、ヘリ、飛行艇、車を用意！機銃も演習弾となっていますが空戦マナーを守ってご使用ください。1⁄12島が間違ってたので修正。隠し機体導入",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_30a3296d-0548-43d8-b703-f00cd9b48890",
+					"Name": "Lunaria's Airfield",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "v02_2024",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a3c4c416-8375-4ec4-9fa8-b9bb7ca0c3fa",
+					"Name": "Lunaria's Airfield 2025大観覧車チャレンジ",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "あの飛行worldがゲームになった！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a93abcbe-244b-4273-a2a8-72142158dc67",
+					"Name": "へりこぷたーとれーにんぐ",
+					"RecommendedCapacity": 7,
+					"Capacity": 16,
+					"Description": "Bell206Vのようなヘリでいろいろな練習ができるワールドです！楽しんでください！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e962e239-47d8-4d56-8fc9-f20bb4d103ba",
+					"Name": "Formation Flight of Helicopter",
+					"RecommendedCapacity": 12,
+					"Capacity": 32,
+					"Description": "AH-64とJU-87が合計12機置いてあります！ 編隊飛行と急降下爆撃楽しんでください！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_41af661c-32bb-4b80-8676-b944923338ea",
+					"Name": "MORITIKA Aircraft Carrier F-18 ＆ F-14",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "wip F⁄A-18C、F-14D等の航空機で飛行できるワールドです。 甲板上のコンソールでエレベーター、ディフレクター等のギミックが可動します。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_40807412-b245-4b60-9c87-d2b6918be4cf",
+					"Name": "おまねこairport",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "F-31を6機配備。編隊飛行などにどうぞ！徐々に機体を増やす予定だよ！ byおまねこ 2025⁄6⁄12 おまねこが沢山来ました！26․01․08 機体の変更及び配置変更、昼夜サイクル導入 見に来てね！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1dd8bfff-39c1-49e8-aac7-9cf35bacd43e",
+					"Name": "Just Air Refueling",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "フライングブーム方式の空中給油が体験できるワールドです ⁄ 置いてあるすべての機体 （TKC-767 ‚ XKF-21N ‚ F-16 ‚ SF-1） が空中給油できるようになっています",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_93bb902e-8848-420b-9f68-5435a42b259b",
+					"Name": "Just Airship",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "飛行船を操縦することのできるワールドです。ゆったり飛べる飛行船で空の旅をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ad87f40b-6492-4b06-9200-3e6b98912ded",
+					"Name": "GANZER COMBAT v2․8",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "You can board the humanoid combat robot （mech ⁄ mecha） Ganzer‚ armored fighting vehicle （Wheeled tank）‚ jet attack aircraft（Light fighter）‚ and attack helicopter․ 人型戦闘ロボット「Ganzer」や装甲戦闘車（装輪戦車）、ジェット攻撃機（戦闘機）、攻撃ヘリコプターを操縦して遊ぶことができます。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0deb4bae-57d6-4dbf-8a18-0b05fe0efa9b",
+					"Name": "Helicopter Tour -the lost island-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "不思議な島をヘリコプターで探検しましょう！Let's explore the mysterious island by helicopterǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff7d9b40-7d96-4acd-8c27-4c4a60f9f7a1",
+					"Name": "HELICOPTER TRAINING FIELD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is a training area for helicopter pilot training․ Step-by-step instructions are given through voice guidance‚ models and diagrams․ It is based on the education that real helicopter pilots receive․ヘリコプターの操縦訓練のための訓練場所です。 音声ガイダンスと模型や図によって、段階的に操縦方法を教示します。 本物のヘリコプターパイロットが受ける教育を土台にしています。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a3dd33ba-cf1c-4d5d-ab05-d7448b302796",
+					"Name": "Vietnam River Combat",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "ベトナム戦争期のビークルに乗って動かすことができます。 UH-1 Huey、AH-1G Cobra、PBR（Patrol boat river）があります。 M16やAK47といったライフルを撃つことができます。 暴れまわったり、対戦をしたり、遊び方は自由。 タイムトライアル形式のレースモードもあります。You can ride and move a vehicle from the Vietnam War era․ There is the UH-1 Huey‚ the AH-1G Cobra‚ and the PBR （Patrol boat river）․ You can shoot rifles such as M16 and AK47․ The game can be played in any way you like‚ from rampaging to fighting․ There is also a time trial style race mode․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c5df1603-1afd-4270-858a-8c4abeab698e",
+					"Name": "FS-2 ˸ COMBAT AIR PATROL",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "仮想保安庁のしょう戒飛行を体験できるWorldです。 九州南部（離島を除く）を実寸大で再現しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec155d74-d8ff-4981-a687-4023f4767076",
+					"Name": "Southern Islands",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "石垣空港を基点に、戦闘機で実寸大の先島諸島一帯を自由に飛行することができます。 Based at Ishigaki Airport‚ you are free to fly by fighter jet over the full-size Japanese archipelago of Sakishima Islands․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a9ad0d39-8af2-41d2-b05c-87b0f477441b",
+					"Name": "COMBAT ISLANDS",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "You can play against other players using vehicles․ There are multiple types of military vehicles that can be used˸ armored fighting vehicle‚ MLRS‚ MQ-9 drone‚ Warship‚ attack helicopter‚ utility helicopter‚ and jet fighter․多数の軍用ビークルを使用した対戦が行えます。 使用できるビークルは機動戦闘車、MLRS、MQ-9ドローン、駆逐艦、攻撃ヘリコプター、多用途ヘリコプター、そしてジェット戦闘機。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_826115ca-9860-4290-bc0d-237e902c1ae6",
+					"Name": "Senka islands",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "World allows you to operate around the fictional Senka Islands in a jet fighter or helicopter․ 架空の島、尖華諸島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4a9df82d-1517-4675-bfea-6b018afd6bdd",
+					"Name": "Southern birds",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "World allows you to operate around the Island in a jet fighter or helicopter․ 某国某所の島の周辺をジェット戦闘機やヘリコプターで活動できるWorldです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bc7f44be-14c3-4a04-9441-89f15a5aabbe",
+					"Name": "Maldives Cottage - with vehicles",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "乗り物に乗って景色と探索を楽しむworldです。guntamix氏の販売Worldをベースに、操縦可能な飛行機、ヘリコプター、ボートを配置しています。 飛んでる人の様子やYoutube動画を眺めながら、コテージでくつろぐこともできます。 This is a world where you can enjoy the scenery and exploration while on board a vehicle․ Based on guntamix's commercial world‚ this world features flyable airplanes‚ helicopters‚ and boats․ You can relax in the cottage while watching people flying around and YouTube videos․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ad5140ff-74d4-4ed6-8944-3086036400d5",
+					"Name": "JVG Kagoshima Air Station",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "The scenery recreates the Kagoshima Airport （RJFK） in Japan and the surrounding area․シーナリーは日本の鹿児島空港（RJFK）とその周辺を再現しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ea684feb-51c6-41dd-9a9f-df47a2950b82",
+					"Name": "JVG Niigata Air Station",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "The scenery recreates the Niigata Airport （RJSN） in Japan and the surrounding area․シーナリーは日本の新潟空港（RJSN）とその周辺を再現しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8464e69e-5b9b-45c3-96de-98ae53665e2d",
+					"Name": "JVG Sendai Air Station",
+					"RecommendedCapacity": 16,
+					"Capacity": 45,
+					"Description": "The scenery recreates the Sendai Airport （RJSS） in Japan and the surrounding area․ シーナリーは日本の仙台空港（RJSS）とその周辺を再現しています。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_af0030bf-6fe6-44b6-8dbc-3a4b7214844e",
+					"Name": "AVIATION TRAINING FIELD v2․0",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is a tutorial world for flying an aircraft in VRChat‚ where you can learn the prerequisites for flying an aircraft in VRChat and do basic flight training step-by-step․ VRChatで航空機を操縦するための前提知識の学習と、基本的な操縦訓練を段階的に行うことができる、航空機操縦のチュートリアルワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a824c395-45ff-4de9-a65d-07a724d2de8d",
+					"Name": "LHD-1 Wasp",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "V-22、F-35B、AV-8B、XAH-1K、LCACを搭載した強襲揚陸艦ワスプのワールドです 海兵隊基地にはF⁄A-18C⁄Dが置いてあります。 トーイングカーもおいてありますので自信のある人はエレベーター乗り入れ等してみてください。 ブリッジに置いてある無線機を持っていれば各機と話せますが、これを持った状態で機体に近づかないでください。 It is the World of Wasp assault landing ship with V-22‚ F-35B‚ AV-8B‚ XAH-1K and LCACǃ F⁄A-18C⁄D are available at the Marine Corps base․ There is also a towing car‚ so if you are confident‚ you can try to enter the elevator․ If you have the radio on the bridge‚ you can talk to each aircraft‚ but please do not approach the aircraft with it in your hand․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_11241e8b-89fd-4e1b-b6bc-7100e4560d4a",
+					"Name": "Fighter Aircraft Museum ~機関長の戦闘機博物館~",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "飛ばせるF⁄A-18、BF-15N、Su-57がある戦闘機博物館です。 容量がバカあるけど動作は軽いはずです。なんかあったら教えてください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5bde5d2c-3e76-41dc-aa88-10e0dd803a52",
+					"Name": "Just TOPGUN OP forVRChat",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "TOPGUN 及び TOPGUN MAVERICKのOPっぽいのが撮れそうな感じに作りました 飛行可能機体：BF-14AD FA-18F F-35C 5gen fighter MiG-28 Static： F-14 S-3 F⁄A-18A E․E․I․ Gullint",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_13f4d201-d0f7-49bd-9aa7-a26893fa8be6",
+					"Name": "Strigon",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Flyable：Su-33 F-15E ACE COMBAT 6 Fan world",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1f92692e-105f-4cc5-9e90-21689c68eb11",
+					"Name": "夏のおまねこ上陸大作戦！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "おまねこ第2弾！おまねこに囲まれながら夏の島でのんびり過ごそう！水陸両用車とボートとヘリがあるよ！byおまねこ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a2fa6913-646e-4f62-afce-67e491f34a54",
+					"Name": "Sleeping Night Hangar -Su-34-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "寝る前にも飛びたい飛行機ジャンキーなあなたへ。 フライト要素はあくまでおまけの睡眠ワールドです。 二機目の布がかかったSu-34には遮音ステムと格納庫が閉まる鍵のついたプライベートルーム的なものになってます。 Not Flight Main World This World is Bedroom The second Su-34 is a locked room․ For you airplane junkies who want to fly and then sleep․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_801b085c-4288-4ecd-907a-0d98b39fb834",
+					"Name": "Re˸SpitFireǃǃǃ ～Propeller Airplane World～",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Hey‚ don't you know my name? The World is a collection of Spitfires‚ Focke-Wulf Ta152Hs‚ and other reciprocating aircraft of the U․S․ and former Japanese armed forces․ スピットファイアやフォッケウルフTa152H他、米国、旧日本軍のレシプロ飛行機が集まったワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e83be349-7c9c-4231-940d-891f307b0bfa",
+					"Name": "British Skies -RAF ＆ Royal Navy Flight World -",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "RAF Valley base ＆ USS Nimiz Flyable˸ PhantomFG․1‚2⁄ Buccanear⁄ Gannet⁄ Sea Harrier⁄ Wyvern⁄ EE Lightning ⁄ EF2000 ⁄ TornedoFG․1⁄Vulkan ⁄ Victor ⁄ A400M ⁄ Concorde ⁄Spitfire Mk1 ⁄ F4U4",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a7cf3f15-46e7-4c7f-994e-1bc42cbc68fe",
+					"Name": "Just Hachijou ［RJTH］",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "just hachijou",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_52690b7f-2b3d-41f6-8fbf-b5c57de8b2ff",
+					"Name": "Florida Keys Harrier Flight World",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "フロリダ・キーズ諸島、セブンマイルブリッジ周辺をハリアーで飛行できるワールドです。某映画同様EasyなVanが出現して橋を渡ろうとしてくるのでぶち壊しましょう。 SaccFlightSystem使用。 Florida Keys Harrier Flight World",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0c8800fb-777d-4ac5-99eb-daee776cc1d7",
+					"Name": "Summer Flight -IwoTo-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "夏の暑さにあてられて目に映った幻を詰め込んだワールドです。 Flyable：ZeroType32 （Hamp）ShidenKai SHINDEN FUGAKU F-15DJ F-2 UF-104J T-2 F-99（F-1color）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4538df89-acc6-458b-929e-79f0eb17df93",
+					"Name": "F-35B FlightSimulator",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "You can experience tactical and navigational systems through a touch-screen display that mimics those of the F-35B․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1fe48b7d-06c3-41c7-8391-e8cb002c740c",
+					"Name": "Tundra Airbase",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Tundra Airbase with Jas Gripen‚ Typhoon‚ and Rafale․ Also a KC-135 for air to air refueling （Update˸ Added G lock․）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9974ad0f-4527-44ac-80cf-1a0e0bddd581",
+					"Name": "Blue Impulse World",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Update - Aircraft 1․6‚ Fly one of six JASDF T-4 Blue Impulse aircraft along with two fictional aircraft from Macross＋‚ the YF-19․ All aircraft are unarmed․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d5750410-7d2f-468d-90d9-f8a3780487c6",
+					"Name": "砲雷撃戦、始め！Commence artillery fire ǃ ver2․7",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "主砲と魚雷が撃てる駆逐艦、爆撃雷撃が可能な艦載機があるワールドです！船酔い注意！This world has destroyers capable of firing torpedoes and cannons‚ and shipboard aircraft capable of bombing and firing torpedoes ǃ Be careful not to get seasick ǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dd61c248-3509-4a68-b001-797ab2b22f22",
+					"Name": "Yalu Conflict - Korean War Piston Aircraft",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Flight world focusing on the last Piston Engine Fighters to rule the battlefield․ F2G-2 ＂Super Corsair＂‚ F7F ＂Tigercat＂‚ F8F ＂Bearcat＂‚ AD-4 ＂Skyraider＂‚ La-9 ＂Fritz＂‚ MiG-9 ＂Fargo＂",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_32a2794c-6900-4114-94ba-979e9043807d",
+					"Name": "City Gryphon - Fly ＆ Chill",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Welcome to City Gryphonǃ Make sure to check the boards around you for informationǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2830fcdf-4df8-436b-96df-631c90df930c",
+					"Name": "Mid Palau - Multicrew Flight World",
+					"RecommendedCapacity": 36,
+					"Capacity": 80,
+					"Description": "Return To BOAT Multicrew",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_54222e23-38c3-482d-a7b1-438e119d7253",
+					"Name": "駆逐艦演習海域。 （Destroyer training area）",
+					"RecommendedCapacity": 20,
+					"Capacity": 50,
+					"Description": "船は主砲、対空砲、魚雷で戦闘が可能です。 航空機もあるので遊び方は色々試してみてくださいね。 （試験的に戦艦を追加してみました。可動テスト込みでの試験運用も兼ねています。）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_12b1901b-97a1-475e-8b37-3e9ffb9533bc",
+					"Name": "空と遊ぶ",
+					"RecommendedCapacity": 20,
+					"Capacity": 32,
+					"Description": "シンプルに飛行できるワールド。 空港エリア、飛行中は滑走路上を低空飛行すると各種補給が可能なので活用して下さい。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c802e02d-7394-4168-9250-70fdd7df9c39",
+					"Name": "とある山中の飛行場",
+					"RecommendedCapacity": 20,
+					"Capacity": 30,
+					"Description": "各種航空機、地上水上の乗り物で何ができるか自由に探索してみてください",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b6a9e076-b25c-4b6c-bfe1-41416e429424",
+					"Name": "とある時代の海と空",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "飛行機、戦艦、駆逐艦での戦闘ができます。 駆逐艦は各部に乗る事で操縦、砲撃、雷撃ができます。（最低２人） リスポーン地点のワープゾーンからそれぞれの港へ移動ができます。 海上の空母へ着艦していると飛行機は回復と補給ができます。 土嚢付近のカメラオブジェクトクリックで画面がモノクロに（ローカル、PC限定）できます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d61c7197-0b7a-48c4-a6a3-b1fc4fdaff82",
+					"Name": "The fury of the earth and sky（大地と空の怒り）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Sacc1․64・ 建築物は破壊可能なので防衛、破壊目標にできます。 オブジェクトリセットはワールドインスタンスを立て直してください。 スポーン地点のワープゲートの先に空港があります。 地上と航空戦力を分けてあるので活用して遊んで下さいね。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5f586626-47ee-4162-b278-77679c5c1b5b",
+					"Name": "地・対・空FighterVsGroundvehicle",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "戦闘機「F-111アードヴァーク」と架空二足機 「BGG-03 Rhinoceros（ライナースレス）」「を操縦・戦闘することができます。NPC制御のミサイル・対空砲が配置されている基地があります。航空機は地上機および対空砲を攻撃し、地上機は戦闘機への対空迎撃を行う想定です。操縦の説明書き付近に２つ全体マイクを配置してあるのでご活用ください。The F-111 Aardvark fighter jet‚ the BGG-03 Rhinoceros fighter jet‚ and the M-551 Sheridan paratrooper tank are available for piloting and combat․ There are bases where NPC-controlled missiles and anti-aircraft guns are deployed․It is assumed that the aircraft will attack ground planes and anti-aircraft guns‚ while the ground planes will provide anti-aircraft interception to the fighters․ Please make use of the two overall microphones placed near the instruction manual for the maneuver․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8d00f0e1-9604-4d58-80b3-0204fcbad0b6",
+					"Name": "ゆるゲぷらすフライトワールド01˸ぜねらるあびえーしょん！",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "簡単に飛ばせるプロペラ機からちょっと難しい飛行機まで様々な乗り物に乗る事のできる群島の飛行場です。ゆっくり遊覧飛行してお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_366d09a6-859e-4340-8325-801bc4267d52",
+					"Name": "救難隊ワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "海に浮かんでいるハオラン君を見つけ出そう 管制塔1階に正解位置を掲示しました",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_736b4f6d-99e9-4a53-ae57-6e801b1b85f0",
+					"Name": "Isles of Ignitar",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "Work in Progress aerial fire fighting world ｜ Updated 11⁄30⁄2024",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2497040b-ab48-491e-b83d-48df41e73170",
+					"Name": "Project Helo",
+					"RecommendedCapacity": 18,
+					"Capacity": 50,
+					"Description": "Practice flying helicopters here․ Last update˸ 11⁄27⁄2024",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_937bcaf3-be5d-4266-9f1b-6ee11fa9a375",
+					"Name": "凸凹トンネル-UNEVEN TUNNEL",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "飛行機を使い様々な障害物を避けて最速で駆け抜けろ。1周回ればゴールです⁄ Use an airplane to avoid various obstacles and run at the fastest speed One lap is the goal Version˸Sacc's Flight1․61a",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_615a0a0f-12e7-439c-9c6f-83d66618fb90",
+					"Name": "ジョイントパイプトンネル-Joint Pipe Tunnel",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "飛行機を使い様々な障害物を避けて最速で駆け抜けろ。1周できたらえらい。-Use your airplane to avoid various obstacles and fly through them as fast as you can․ It would be great if I could do one lap․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5663070b-1826-48a4-94e8-cbef9b689d42",
+					"Name": "夕陽の海、島渡り",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "夕焼けの島でドライブしたり、ヘリや飛行機で飛んだり、ボートで海を走り回ったり、キャンプ場でくつろげるワールドです。動画プレイヤー、QVpenが置いてあります。すこーしだけ不気味なとこがあるかも․․․？ よかったら遊びに来てください！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6510a46f-f823-4deb-a958-5f0be03268a0",
+					"Name": "Area B7R",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "0400hrs‚ Belkan Priority One Strategic Airspace‚ B7R ＂The Round Table＂",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e05de515-031e-4df0-b690-042b9cbe1fe8",
+					"Name": "Air Racing˸ Typhoon",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Air Racing world featuring Eurofighter Typhoons",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a00d117e-9ef8-4d0a-acd5-01180d67eed2",
+					"Name": "Jintei's Beach Airbase",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "A Beach airbase with some explorable areas",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e44fe28f-9eaa-46f5-9cbd-a6729dd5925e",
+					"Name": "Arctic Straits",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "An aerial dogfight world featuring the Su-37 ＆ the MiG 1․44",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f07c6bb3-ab82-43de-84a6-6fded15b8da3",
+					"Name": "Highland Airbase 2",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "AAAAHH hhh i'm basiling it ∗blows up mind with pancakes∗",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_693f5c48-d4ad-4dee-ad8c-9f096555e5be",
+					"Name": "Gifu Air Base ＆ Komaki Air Base",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "sacc 1․7a 航空自衛隊岐阜基地および小牧基地、その周辺の再現ワールドです。おそらく大体実際の距離感になっていると思います。 だいたい300knotで飛行して６分程度で行って帰ってくることができます。早いですねぇ。現状小牧側はおまけ程度のつくりですが、機体は置いてます！あえてテレポーター的なものは置いてません。飛行機で行きましょう！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a355fbf4-070a-457c-8586-5a1252f648c2",
+					"Name": "ZS ｜ Maddalena Archipelago",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "［FREQUENTLY UPDATED］ CAUTION˸ Requires a decent PC for the optimal experienceǃ This map features SaccFlight （v1․64） aircraft‚ ships‚ and cars‚ and is supposed to be a 1930s-era flight simulator set in a fictional world․ Some key features include 3 large ＆ 3 medium airports‚ and a bunch of hidden airfields and floatplane bases‚ a massive cave-base‚ several buildings with interior including a hotel with rooms （Code 101）‚ a flight school with full-interior and pickups for teaching‚ and the main island's RWY24 approach being a nod to Kai Tak's ＂Checkerboard Approach＂․ The locked hangar on Maddalena Airport's MIL ramp is my development-mancave‚ and the residing aircraft aren't totally ready to be released for public use․ These aircraft are most likely not （yet） airworthy or are being sent in for maintenance․ Created for the Zeppelin Skies Roleplay․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fa3eae72-def6-4158-89e2-2cd827598533",
+					"Name": "ELITE Trusted",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "本格的な慣性制御を要求するシム寄りの宇宙船ワールドです。 初心者向けにフライトアシスト機能を用意しています。飛行中任意でオンオフできます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ece45cee-8cc9-4c31-988f-f6850ee57cfb",
+					"Name": "Echo Island",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ホームワールドとして作成しました。Sacc Flight Systemで飛ぶ小型機が２機置いてある、洋上に浮かぶ小さな島です。他にもビリヤード台や動画プレイヤー、Qvpenなどを完備してます。フレンドとダラダラしたり飛行機飛ばしたりしたいという方向け。 This world has two flyable small aircrafts by Sacc's Flight System․Also we have a video player and some entertaiment․ Enjoy your flight․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c4bf37ef-1ba5-4705-8009-f1ec7ccd17e8",
+					"Name": "Just Hamamatsu Night Party",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "静岡県浜松市の夜景を楽しめるフライトワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_630c5246-8ef7-4dee-b6a9-8095f4001ec8",
+					"Name": "North Island",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ＮＰＣとドッグファイトのできるフライトワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_79c64863-dda0-4b78-b981-c4a83b24230e",
+					"Name": "CF-01 HMS Queen Ruler Rosette Manasvin （pub）",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "航空ぼか‚‚‚‚‚‚‚航空機搭載巡洋艦のワールド、 気軽に空母運用が体験できます",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec8fef64-ee7f-4c5f-b00c-da2948e11ad8",
+					"Name": "OCEAN Island",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "空母艦載機運用ができるワールドです、対地、対艦攻撃のPVE戦闘ができます。 無線を導入し、航空機、母艦において音声通話による連携が可能です。 クエスト対応ですがおまけ程度なので、推奨はしていません",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_606ce8ab-150d-46b3-bf10-b6654bacdaf6",
+					"Name": "Just Hamamatsu ［RJNH］",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "浜松市を再現したワールドです、無線を導入し編隊飛行が可能です、訓練飛行や展示飛行などにどうぞ。クエスト対応ですがおまけ程度なので、推奨はしていません、縮尺や施設など実在の物とは異なります。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6ec0e7ac-f818-428b-8b21-300989746b57",
+					"Name": "Orbital Maneuver",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "地球低軌道の雰囲気を再現したワールドです、航空機を操作して自由自在に宇宙空間を飛行可能できます。 注、SaccFlightSystemを使用した操縦技能が必要となります。 雰囲気メインのため航空機などの挙動は実際の物理法則に則していません。（重力の存在等）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_373b65d5-1ab2-44d2-a67a-20e1468af81a",
+					"Name": "Just Houki",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "スチームパンク風の魔法の箒に乗って夜空を自由自在に飛びまわる事の出来るワールドです。箒には正面を向いて跨ぐタイプと真横を向いて座るタイプの2種類を用意、操縦方法はSacc's Flight システムにおける固定翼機と同様です、後部にもう一人横向きにて搭乗可能です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_729ed715-2504-4e38-b3ba-a43cff5b44b3",
+					"Name": "いちごみるくヘリポート＆飛行場",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "いろいろなヘリコプター、飛行機、VTOL機を操縦できるワールドです 。武器は取り外してあります。もっとこうしてほしい！これが欲しい！などございましたらいちごみるくへお気軽にお声掛けください",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3928d86c-f5d5-4915-b8da-95b78dfd4898",
+					"Name": "真・よしゆ島",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ここを野戦飛行場とする。Classic Planes",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9ecb548a-3dc8-4758-b424-bc2cd33d818a",
+					"Name": "［Game］ Ace of Aces",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "音速で大空を駆け、敵を撃破せよ！最大12人の空戦ワールドです。 充実のチュートリアルで、操縦経験ゼロの初心者でも操縦を学べます。 Fly supersonic fighters and destroy targetsǃ An aerial warfare game （max 12players）ǃ Lots of tutorials for beginners․ Learn how to fly and dogfight․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4f6537fd-1269-4097-b2e5-fbdbaf272cee",
+					"Name": "prawn island - プロウン島",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "遠い昔、ナドンの戦いで野に放たれた生物兵器「エビザウルス」の一部はセレウ川を南下し、死海に浮かぶ小さな島へと辿り着いた。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1b4beabf-e6de-4bf1-8996-de77cb760519",
+					"Name": "ZENITH-Military-Compound-Night",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Military Compound at Nighttime․ Airfield Bunker Hangar․ cars and helicopters thanks to SaccFlightAndVehicles․ Built for a german Vampire the Masquerade rp Compund got sold and is now run by Arms dealer Zenith",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fab8e954-458a-4d31-b7ec-429db4386ba1",
+					"Name": "イワトビ群島 Solo Training Edition - AI Fighters Dogfight［PvPvE Wip］",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "無人戦闘機（AI戦闘機）とのドッグファイトワールドの縮小版です。 敵戦闘機の攻撃が緩くなっていますので、練習にどうぞ。 PvPvE training for AI Fighters․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9c573216-0214-4ed3-b72a-f8824b156593",
+					"Name": "イワトビ群島 - AI Fighters Dogfight RUMBLE［PvPvE Wip］",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "（一人もしくは練習の時はSolo Editionをご利用ください） ！注意！このワールドは戦闘空域です。非戦闘飛行・遊覧飛行は出来ません。 離陸した人は誰でも交戦意思有りとして発砲が許可され、同時に無人戦闘機もしくは他プレイヤーから攻撃されます。 ǃCAUTIONǃ This flight area is a combat zone․ You cannot deny the dogfight against other players or AIs․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_85ff75f5-1aaf-40f6-afb9-acc1f1cca897",
+					"Name": "［WIP］ 400x400km 四国大陸 OWML",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ワールド全体は2000km四方、Terrain（陸地）は400km四方のSacc Flightワールドです。シミュレーター並にセットアップされた戦闘機によるFOX3-BVR戦闘が可能です。 飛行機無しでもすべての陸地～空をお楽しみいただけます。 BVR Experience in VRChat․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ef109934-7c71-4d15-900a-c5da4a510bd6",
+					"Name": "こぶしめ中心街 -kobusime City centre-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ヘリコプターと車で遊ぶことのできる街のワールドです ワールド中心から東西南北いずれかに1km進むと反対側にテレポートします 乗り物は互いに無線で繋がっています World音量は20％程度を推奨します",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d92301b3-5ae8-4a58-b78c-f19d04cfc5be",
+					"Name": "［PvPvE］燕返しの島 Tsubame-Gaeshi Islands - FPF-4 Dogfight",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "FPF-4海燕によるドッグファイトワールドです。このワールドではプライベートorイベントインスタンスでの特別運用の場合を除き戦闘を拒否することはできません。 The Dogfight world feat FPF-4 KAIEN․ Follow the instructionon in the world entrance before you enjoy the dogfighting․ ［2025 7⁄8 Update］ 無人戦闘機が4機飛来しました。ワールドのどこからかランダムに出現します。PvPワールドであるというルールに変更はありませんが、彼らも戦いに参加したいようですので相手してください。⁄ 4 AI Fighters are now engaging at you․ Just SHOOT THEM DOWN․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_76d3b968-d337-46d4-be15-3cd840dba188",
+					"Name": "sightseeing in yamato",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "フルスクラッチで頑張って再現されたほぼ原寸大の戦艦大和を観光しよう！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e877393d-5f73-4695-b3e6-cf193f678991",
+					"Name": "［PvE］［Aircraft］ Intercept ＂Black Santa claus＂ǃ",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "WIP mission system for Saccflight․ Just concept testing․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_14690e2e-4dca-4fab-a691-10ea380a1477",
+					"Name": "【APKU⁄KRL】Kural Airport（クラル空港）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "景色を観ながらゆったりとした飛行を楽しめるフライトワールドです。 カメラのニアクリップ距離の上書きをOFFにして下さい。民間企業であるPNLSSが保有する大洋域の主要空港であり、PNLSSの運用機材の整備を行う大規模空港です。 日本語以外の言語での反応は作成者の能力の都合上、大幅に遅れる可能性があります。気に入って頂けましたら口コミ等で拡散して頂けると有り難いです。（公式ハッシュタグ＃クラル空港＃KuralAirport）更新情報˸public化（1⁄1）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3441162d-7518-49f1-93f1-172d86476b47",
+					"Name": "［EIGP⁄SJR］ Storjord Air Port（ストルヨルド空港）",
+					"RecommendedCapacity": 8,
+					"Capacity": 12,
+					"Description": "大きめの滑走路を持つ小さな空港がある景色を観ながらゆったりとした飛行を楽しめるフライトワールドです。 カメラのニアクリップ距離の上書きをOFFにして下さい。ワールド設定で常に低空に霧が掛かっています。とある大国が冷戦期に極地空軍基地として建設し、基地閉鎖に伴い現地政府に管理権が移管、現在は空港局より委託され、民間企業であるPNLSSが夏季限定で観光を主要目的に運営しています。 小型レシプロ機や小型ジェット機、中型ヘリコプター、レシプロ飛行艇等が置いてあります。気に入って頂けましたら口コミ等で拡散して頂けると有り難いです。（＃ストルヨルド空港）更新情報：C-47等の導入を予定",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_35d45c7e-f703-465a-ba3e-008507b7a97e",
+					"Name": "おさんぽフライト - Gardens Between Earth and Sky",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "春の風にのって、白い雲の浮かぶ空へおさんぽにー飛行機やジャイロコプターやヘリコプター、好みの機体で飛びたちましょう．草木の陰や湖のほとりに小部屋をみかけたら、地上におりて一休み・・・ Fly leisurely through the sky and visit the gardens scattered between sky and earth․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2d56be9b-994a-4560-b185-745a8fd0f2fa",
+					"Name": "SENTRY's BRUNT Ver1․2 -Frozen Steel-",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "日本のF-15J⁄DJ、F-35B戦闘機でPvE⁄PvPができるワールドです。 比較的安定した操作性能、ほぼ無敵の非武装機など、航空機に不慣れなひとや平和主義のひとでも楽しめるようなワールドを作ってみました。 This is a world where you can engage in PvE⁄PvP using Japan's F-15J⁄DJ and F-35B fighter jets․ We've created a world where even those unfamiliar with aircraft or peace-loving individuals can enjoy themselves‚ featuring relatively stable handling performance and nearly invincible unarmed aircraft․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7d42e180-ebca-42ac-bc20-a9383abfcbbc",
+					"Name": "Fantasy Vehicle World《シルヴィア帝国領》",
+					"RecommendedCapacity": 25,
+					"Capacity": 38,
+					"Description": "異世界を舞台に、現代チックな乗り物に乗って遊べるワールドです！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e5f161ec-3ca6-4b9d-b5a2-030b89d9fb4e",
+					"Name": "ヨコスカ公園 -YOKOSUKA Bayside Park-",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "港の見える公園のワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_522b17d4-286f-4dee-bd87-69fad77c8b43",
+					"Name": "Aircraft playground 215",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "飛行機の遊び場 ˸多様な飛行機＆ヘリ有り タイムアタックコース４つ ターゲット島 都市 PSM練習にもぜひ Sacc's Flight",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_401abeaf-da50-4ae5-b176-ab77f0e472c4",
+					"Name": "RISING HIGH Ver4․5 -Winter Standoff-",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Ver․4 「膠着の冬」が到来。 150MB以上の軽量化、パフォーマンスやビジュアルの向上、リアルな機体、重厚感のあるサウンド、カジュアルな操作での空をお楽しみください！ Ver․4 Winter Standoff has arrived․ Enjoy over 150MB in size reduction‚ enhanced performance and visuals‚ realistic aircraft‚ rich sound effects‚ and casual controls for an immersive aerial experienceǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e69c624b-8b1c-4b7b-be49-1b335ed152b3",
+					"Name": "MIDNIGHT LIGHT Ver․2․0․9",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Updated to Ver․ 2․0ǃ Map reconstruction‚ aircraft changes‚ blackouts‚ new weapons‚ anti-ship combat‚ etc․․․ Ver․2․0に更新しましました！マップの再構築、機体の変更、ブラックアウト、新しい兵装、対艦戦闘 、etc․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5840ad33-4f82-4875-a31b-b6a198f2c982",
+					"Name": "くうこうがあるみなみのしま",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "中央に空港がある夏をイメージした南の島風なワールドを作りました。動画プレーヤー、QVペン、飛行機、ヘリコプター、車が置いてあるのでのんびりしたりドライブしたり気ままに飛んだりしてもらえればと思います。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4b0dad02-add1-4f2b-83a8-8c61132d7cf9",
+					"Name": "アカーミッソ・ダーッシ島",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ヘリコプター、レシプロ機、ボート。他にはQVペン、動画プレーヤーが置いてある静かな島。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d5ca751a-2996-41dd-a8cf-72fe5b9ac75f",
+					"Name": "クソでか対空砲を潰しに行くワールド（PVE⁄PVP）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "戦闘機、ヘリ、戦車を使ってクソでか対空砲を潰しに行くワールド。 PVEとPVPどちらでもできるように２チーム分の戦闘機・戦車が置いてあります。（片方のチームの戦闘機は対空砲に狙われません） ただ遊覧飛行を楽しんでもらっても大丈夫です。 街の周辺にある空港と街の上空は非戦闘空域になってますので極力戦闘はしないでください。良ければ遊びにきてくださいね～。 2025⁄10⁄06 民間機のヘリを一部変更、民間空港の見た目を那覇空港（Studio-Symphonys様作）にしてみました。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c5ee03b4-6822-4717-9543-85d05ea1d066",
+					"Name": "夕焼け空、ヘリと密林、ときどき戦闘機",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "密林でUH-1‚F-4‚Type-52を飛ばせるワールド。ヘリの機数が多いのでヘリ編隊飛行の練習にもどうぞ！ すこしだけ遊び要素も入れてありますがゲーム性は皆無なのでおまけ程度に思ってもらえると幸いです。動画プレーヤー、QVペンも置いてあります。ハンガーのとことテントのあたりにワールドポータルがひっそりと置かれていますが、非公開ですが自作のワールドになります。もしよければ遊びに来てください。～すこし不気味なとこあります。苦手な人は注意してください。～",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3921a9bc-c74b-4912-9a2b-1db062b61313",
+					"Name": "夜に飲まれた街で",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "人のいなくなった街で気の向くままに․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b92bfe57-3bcf-4eec-b993-d19979ad48e8",
+					"Name": "夜の山道を走り回るだけのワールド",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "夜に暗い山道をトラックで走りたくなったことありますよね․․․? ボ～っとしたいときとか暗めなとこ行きたいなとか思ったときにでもお使いください。柵はあることをすれば開くようになります、探索してみてください。もし迷ったりしたら․․․まぁ頑張ってください（笑） リスポーンしてください。10人まで入れますが4~5人くらいがちょうどいいかもしれません。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b04215f8-f777-46ff-928d-7ad13e5da3f0",
+					"Name": "夜の星、島、ヘリ（QUEST対応Ver․）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "夜の島 動画プレーヤー QVペン それと「こけし」QUESTにも対応してるVer․です。 遊覧飛行や練習にもどうぞ！ サムネ作成˸しゅまるしゅさん ＠Shumarushu_VRC 2025⁄04⁄11 リスポーン位置（ヘリがある位置）に明かりを追加しました。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2979278e-d208-4ccd-af30-e53b7dd53f83",
+					"Name": "フライト＆バー「とまり木」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "やってみたいワールドのテストワールドです バーへのテレポーターと、ついでに地形で難易度高いですがドッグファイト向けてレポーターもあります まだまだ試作なので日に日に変化するかもしれません",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2779de30-6dd5-42db-851d-a1277647e3b4",
+					"Name": "フライト＆バー「とまり木」 ナイトバージョン",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "もう一つ上げているフライト＆バーの夜バージョンです",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_31570de4-6760-4dd1-b67d-162b16073b01",
+					"Name": "フライト＆カフェ とびうお（仮名称）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "現在制作中 空母のエレベーター一つを改造して作った、飛行機を見ながら休めるカフェとフライトのワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_28c28d71-8e69-456f-b15d-6fd385866773",
+					"Name": "フライト＆バー みみずく",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "訓練向けのプロペラ機をメインとした機体を主に配置した空港にバーを入れたワールドです 夜間を低速で飛行するゆったりした空をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d9ce28df-7f49-4930-9360-b9bef05f148e",
+					"Name": "Sanka Mk․b Ver․T․T․B․ 石狩（Ishikari）地形図フライト［OWML］",
+					"RecommendedCapacity": 16,
+					"Capacity": 40,
+					"Description": "Flight World with Sanka Mk․b Ver․T․T․B․ - 2024-0413 Head-on battle planes ＂A＂ and ＂B＂ with teleporter deployerd․ - 2024⁄06⁄28 Terrain renew with 10m mesh 36x36km․ 地形データ出典：電子地形図25000（国土地理院）地理院タイル、国土地理院ウェブサイト 基盤地図情報ダウンロードサイト https˸⁄⁄fgd․gsi․go․jp⁄download⁄menu․php 地形データを加工して利用⁄2024-1012 SDK3․7․1",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0d79f7b1-0a1e-446a-b091-291575537a6c",
+					"Name": "高ポリな桜の巨木とエアーウルフの為のワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "高さ１２００ｍの桜の周りで気持ち良いフライトを楽しめます",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e295e1aa-2811-4238-ba54-4fbf5fbc05ad",
+					"Name": "Star Fightersǃ V1",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Space world with 7 Fighters that you can fly and you can fight each other․ due to OWML there may be some problems or bugs here and there usually respawning fixes them․ Also there are a few Easter Eggs so look around for them if you want‚ Enjoyǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2bab2ccf-12ca-446c-bdf3-63ca034692c1",
+					"Name": "Clementia Hill Airstrip（クレメンティア・ヒル飛行場）",
+					"RecommendedCapacity": 10,
+					"Capacity": 16,
+					"Description": "みかん重工製のCitrus-150軽飛行機を主とした高原の小さな飛行場のワールドです。 他にCitrus-150と相性が良さそうな航空機も置いてあります。（This world is a small highland airfield featuring the Mikan Heavy Industries Citrus-150 light aircraft․ It also includes other aircraft that go well with the Citrus-150․）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_86083189-ce04-42c5-90e2-ad6921b0e5ab",
+					"Name": "Sunrise of Clementia Hill（クレメンティア・ヒルの夜明け）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "シトラス150の改造機、シトラス150B（ブッシュプレーン）を主としたゆったり飛ぶことがメインのフライト＆キャンプワールドです。シトラス150Bの座席後部のBOXをUSEする事でキャンプグッズを出す事が可能です。（使用後は適切にしまわないとバグります）各所に上昇気流などが設定してあります。今後予告なく仕様等が変更となる可能性があります。Relaxing Flight ＆ Camp （Citrus 150B） Camp˸ Use the rear box․ （Stow after use to avoid bugs） Flight˸ Updrafts enabled․ Note˸ Specs subject to change․ （sound˸XC629522 · アカトビ · Milvus milvus CC4․0 by Beatrix Saadi-Varchmin XC993000 · Common Buzzard · Buteo buteo CC4․0 by Alvin Tarkmees XC1072370 · Common Blackbird · Turdus merula CC4․0 by Amselforscher XC38525 · ヒバリ · Alauda arvensis CC4․0 by Matthias Feuersenger XC1036362 · クロヅル · Grus grus CC4․0 by Marketa Rusarova）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4778c587-05af-4902-9a4d-cb734696bd70",
+					"Name": "Yuta-Yuta-No-Umi",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "主にゆたゆた舟遊びをする場所です、好みのBGMでお過ごしください",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f61d90b8-3efc-4c5f-94f7-a10f896367e9",
+					"Name": "雪の中へ降り立つ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "雪山でヘリや飛行機で飛び回れるとこです。（発煙筒が炊かれているところには何かあるかも․․․？） ゆっくり気ままにお過ごしください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3f1ca0d4-cd2e-41ca-81a5-05ac4c21c3f9",
+					"Name": "帝国海軍航空隊フライトワールド 1․71a",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "SaccFlight1․71a 地上基地には雷撃機の一式陸攻と秋水、戦車があります。桜花にも乗れます。海洋には加賀、赤城、戦艦武蔵の空母機動艦隊があります。初めにリスポーンのみ勝手に戦艦の一斉射撃します。大きな音がしますご注意ください",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1b5064c2-dfa7-4197-86a9-f1a5bc5ca69c",
+					"Name": "Missile dancing for Answer",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "大量のミサイルとレーザーを撃ってくるアンサラーと超加速ブースター付き輪廻が置いてあるワールド。ヘリコプターは遊覧飛行用にAAMTargetが抜いてあります。This world features Answerer‚ which fires a ton of missiles‚ and fighter jets with super-acceleration boosters․ The helicopters have AAM Targets removed for sightseeing flights․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_41d2f638-5279-4731-b1ef-7885b0bc7e39",
+					"Name": "おまねこchill port",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "おまねこフライトワールド第2弾！今回はゆったりのんびり空を飛びながら景色を楽しめるワールドを作ったよ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0f4287d3-dc2b-4d7a-a0c0-3a256d528b07",
+					"Name": "ヴォストチナヤ・ズヴェズダ航空基地",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "・2⁄6 FPS低下の原因になるため木を削除 複座型Su-57を配備 一部の道路になかったコライダーの追加 リサプライゾーンの修正 空のスカイボックスを変更しました｡",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "車メイン（Sacc)",
+			"Worlds": [
+				{
+					"ID": "wrld_23a71afe-bb9d-4a62-b4c4-264dbd842c0c",
+					"Name": "パンジャンドラムサーキット",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "みんな․․․パンジャンドラムに乗ろう！ クラッシュすると爆発？パンジャンだからね！ うまく曲がらない？パンジャンだもの！ まっすぐ走んない？そりゃあ․․․パンジャンだし․․․しょうがないよね？ 「良きパンジャンライフを！」",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_78e566af-c5f4-4654-9baf-98209560fbb9",
+					"Name": "［Initial D］ Myogi （Circuit）",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Myogi Circuit from Initial D Arcade Stage",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7f2ab4b2-012c-49d1-a968-3c4ff4a6f7fb",
+					"Name": "［Initial D］ Shin Myogi",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Initial D inspired Myogisan",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_70af7897-c25a-4b9d-9c93-a9c1271cbcbb",
+					"Name": "［Initial D］ Nanamagari",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Nanamagari from Initial D Arcade Stage 8",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9c735b27-3086-4978-9b9b-02683b12eb94",
+					"Name": "［Initial D］ Nagao",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Nagao from Initial D Arcade Stage Zero",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2c51c7d3-90d0-4ab6-b426-175af3cfdeeb",
+					"Name": "［Initial D］ Tsuchisaka",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Tsuchisaka from Initial D Arcade Stage Zero",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b52d7669-cf0d-4392-8900-c3e79d16ccbc",
+					"Name": "［Initial D］ Irohazaka",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Irohazaka from Initial D Arcade Stage 8 Infinity",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fff707c6-bec1-442c-b4d6-41a707166f37",
+					"Name": "［Initial D］ Lake Akina",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Lake Akina from Initial D Arcade Stage 8 Infinity（Model ripped by Neitancrost）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b16a6be9-cf82-4195-bd8b-d125e28ebfc4",
+					"Name": "［Initial D］ Maze Pass",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Initial D inspired Maze Pass‚ map model created by Realistic Touge Project",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_50ca0b84-e2f4-4b8a-b968-579afbbc174d",
+					"Name": "［Initial D］ Sadamine",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Sadamine from Initial D Arcade Stage 8",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_da3ab600-6c79-46c4-9f3b-0f05e21a1a91",
+					"Name": "［Initial D］ Usui （Arcade Stage Circuit Ver․ 1）",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Usui from Initial D Arcade Stage 1‚ 2 ＆ 3",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_842b91f7-de2a-4703-89ae-785198e886db",
+					"Name": "［Initial D］ Shin Usui",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Initial D inspired Usui Touge",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d4e913da-c552-4c1a-8604-d50f1cc1cde5",
+					"Name": "［Initial D］ Usui （Arcade Stage Circuit Ver․ 2）",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Usui from Initial D Arcade Stage 8‚ Featuring Day ＆ Night Modeǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dd812090-35a2-4768-90ed-efc9cdc1a277",
+					"Name": "［Initial D］ Akagi",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Akagi from Initial D Arcade Stage Zero",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_071e2a8d-0178-4aa9-94f5-251e517a0065",
+					"Name": "［Initial D］ Shomaru",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Shomaru from Initial D Street Stage （Model ripped by freznva from Gamemodels․ru forums）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c0272bd4-83ca-4680-abaf-7151f7974da2",
+					"Name": "［Initial D］ Akina （Snow）",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Snow version of Akina from Initial D Arcade Stage 8 Infinity",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_35ee7502-25fd-4ed0-b7c5-9a46b5e179f8",
+					"Name": "［Initial D］ Happogahara",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Happogahara from Initial D Arcade Stage 8",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7216ef73-8f3a-4e0c-89ae-5796d1beedfb",
+					"Name": "［Initial D］ Tsukuba Fruits Line",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Tsukuba from Initial D‚ now in SDK3",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_15865450-82d4-4c86-be11-89d0b28b0601",
+					"Name": "［Initial D］ Momiji Line",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Momiji Line from Initial D Arcade Stage Zero",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_708b3759-6239-49c1-b6d2-8e502d3bc448",
+					"Name": "［Initial D］ Odawara",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Odawara from Initial D Arcade Stage Zero",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f409e2c9-3ddf-4ec2-981e-b41fd9c6687e",
+					"Name": "［Initial D］ Hakone Turnpike",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Hakone Turnpike from Initial D Arcade Stage 8 Infinity",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_605f989b-a0b5-43e0-ab49-2dc823dfdcd4",
+					"Name": "Shibu-Shinju Line",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "The Expressway route that goes through the Shibuya ＆ Shinjuku area of Tokyo",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7a923825-6d87-4f7d-a1ce-e5d7a42ad3b9",
+					"Name": "［MaxiTune］ Tokyo Metropolitan Expressway",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Tokyo Metropolitan Expressway from Maximum Tune 2",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4e525ff3-9fd6-44b6-b315-da88ef085705",
+					"Name": "Fukutoshin Expressway",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Now with Time Attack Mode",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ff3ded99-386a-4391-8e85-44cdbaeef9bf",
+					"Name": "Shinkanjou Daybreak",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "Running before daytime comes‚ and before the workers go back to the construction sites․․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_71802843-6ba9-47d9-9b89-178232645d66",
+					"Name": "Spa-Francorchamps （Sportscar 2006）",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "The Sportscar layout of Spa-Francorchamps （From Race Driver GRiD）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f2ae5442-2a75-4a72-9f3e-b5ce461dcae6",
+					"Name": "Kobe （Hanshin Expressway R3 Harbor Road）",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Kobe Area from Maximum Tune",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6870da97-ab25-45fb-98c3-1bd86b9f3baf",
+					"Name": "Mt․ Taikan",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Mt․ Taikan （Daikanzan） located in around the Hakone area （Model from Wangan Midnight Maximum Tune 5）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f3c6e594-5160-4423-9d7a-c7bf025c3615",
+					"Name": "Osaka Hanshin Expressway",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "JUST KANJOZOKU",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ca5c0d63-2501-4b5e-82db-c5d771486acd",
+					"Name": "Fukuoka Urban Expressway",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Fukuoka Urban Expressway from Maximum Tune‚ now in SDK3",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f4fd6115-3505-4e33-bc3f-7e07af947973",
+					"Name": "Nagoya Speed Ring",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Nagoya Speed Ring from Maximum Tune‚ now with SDK3",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f284ff01-eda3-47ee-98e5-a710c3849e14",
+					"Name": "Hiroshima Expressway",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Hiroshima Expressway from Maximum Tune",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fdfcac76-9f0b-4a1b-a65e-cec94608a4ec",
+					"Name": "［GRiD］ Long Beach",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "Long Beach from Race Driver˸ GRiD",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2907c140-36eb-48b6-ac87-b07b69ae7151",
+					"Name": "- Camp Lakewood -",
+					"RecommendedCapacity": 4,
+					"Capacity": 12,
+					"Description": "これがキャンプワールド最も完璧です。 釣りギミックはまだ機能していません",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cb19cb3b-38cc-41fb-a05f-c183bf7d3d77",
+					"Name": "Xmas Transporter -クリスマスの運び屋-",
+					"RecommendedCapacity": 16,
+					"Capacity": 20,
+					"Description": "サンタ邸からトナカイが逃げ出したと連絡が入った。諸君らの任務は麓の集落にクリスマスプレゼントを安全かつ迅速に届け、戻って来ることだ。健闘を祈る。 ワールドについて：Saccビークルを使ったタイムアタックワールドです。下りと上りそれぞれ計測されます。大きなゲートはチェックポイントなので、必ずくぐってください。沼地、氷、ジャンプ台などの障害物を避けて最速の攻略チャートを見つけましょう！ハッシュタグは ＃VRC_Xmas_Transporter",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "車メイン(CVS等)",
+			"Worlds": [
+				{
+					"ID": "wrld_04ff549e-6b5a-4a9a-a60e-a3df4c038778",
+					"Name": "筑波サーキット-TsukubaCircuit-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Riding cars ＆ motorcycles on TsukubaCircuit․ Powerd by CHIKUWA VEHICLE SYSTEM 2",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_12078402-aa36-47ef-8caa-34cd3ef3611d",
+					"Name": "ChikuwaSnowTrial-極月-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Riding cars on SnowCourse․ Powerd by CHIKUWA VEHICLE SYSTEM 2",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_da9a7148-069c-47e5-8dc1-b017ace596ed",
+					"Name": "黄輝夕境ドライブロード",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "黄輝夕境（おうきゆうきょう）ドライブロードは、ゆったりとしたドライブが楽しいドライブワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9643b6d0-8a41-4830-91ac-cc516a499f5a",
+					"Name": "新緑ドライブロード",
+					"RecommendedCapacity": 48,
+					"Capacity": 48,
+					"Description": "バイクで走るのが気持ちいいドライブワールドです。大人数でドライブができます。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2a3df68a-86a8-4949-86a3-f4cac379ac0a",
+					"Name": "裏六甲-UraRokkou-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Riding cars ＆ motorcycles on Touge․ UraRokkou map made by ＠gobeyond_fps Powerd by CHIKUWA VEHICLE SYSTEM 2",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_58c00547-8dbd-4f54-a0a9-251e0183874c",
+					"Name": "into the Snowy midnight⁄running",
+					"RecommendedCapacity": 42,
+					"Capacity": 42,
+					"Description": "雪降る夜、私は宿を飛び出した。 （VRCドライブ部イベント用に作成したドライブワールドです。大人数での運転のため必要最低限に留めています）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9225dbde-7ff1-4537-8b67-ff8959bc1c84",
+					"Name": "サマードライブ",
+					"RecommendedCapacity": 16,
+					"Capacity": 48,
+					"Description": "海岸沿いを走れます。夏といえばという場所をめぐることができます。海を泳いだり花火を見たり自分だけの夏を感じれるドライブワールドです 数か所隠しエリアがあります",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_55a54bae-47df-48d2-8f61-a79b8a8c09db",
+					"Name": "銀河特急ミルキーハイウェイ再現",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ハイウェイのワールドです ある程度再現しています",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3f0d78a5-0703-4f8f-be48-f5938a48f986",
+					"Name": "双ツ鏡湖外周道-ChikuwaVehicleSystem2-",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "ǃ音量注意-Volume warning-ǃ 1周約8kmの幅の広いオリジナルレイアウトの湖外周道です。 いつものドリフト車のほか、グリップカーや初心者でも乗りやすいゆったりドライブのできる車、おまけにバイクも。 2025⁄12⁄15 YasuriRGの挙動調整、DriftカテゴリにWhirlWindを追加、同位置のD․V10を撤去。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f7613214-4ac8-464e-ad07-43b55dc3c059",
+					"Name": "Warehouse Kart Club-ChikuwaCarSystem-",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "チクワカーシステム採用のサイバーチックな室内カート場です。 初心者向けからドリフトカートまで揃えております。 AudioLink搭載。 2025⁄05⁄14 最新バージョンにアップデート作業中",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_961192c0-e85b-47df-ada8-c9bcf2e5fdcc",
+					"Name": "獅狸追峠-ShirioiTouge-ChikuwaVehicleSystem2",
+					"RecommendedCapacity": 14,
+					"Capacity": 25,
+					"Description": "ǃ音量注意-Volume warning-ǃ-チクワビークルシステム（CVS2）搭載、全長約3․8km、道が悪く勾配のきつい秋の夜の日本の峠道です。日本車多めのドリフトダウンヒル。 2025⁄12⁄06 VRC側の音響関連アップデートの影響で音の聞こえ方がおかしくなっています。 実装が安定して調整が済んだら修正アップデートを入れますので少々お待ちください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1c08b4d8-ad15-45cf-85d0-48f639a953a8",
+					"Name": "烽壇平サーキット-ナイター-ChikuwaVehicleSystem2-",
+					"RecommendedCapacity": 12,
+					"Capacity": 25,
+					"Description": "ǃ音量注意-Volume warning-ǃ 広々とした道幅と豊富な車種でのびのびドリフトが出来る、夜のサーキット。CVS2（チクワビークルシステム2）搭載。 2025⁄12⁄06 VRC側の音響関連アップデートの影響で音の聞こえ方がおかしくなっています。 実装が安定して調整が済んだら修正アップデートを入れますので少々お待ちください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_079307db-843a-43e5-96db-7643a3bbaaf9",
+					"Name": "グランドパーキング永火垣-ChikuwaVehicleSystem2-",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "ǃ音量注意ǃ とある町の一画に佇む、巨大な立体駐車場。 最高の雰囲気での撮影や溜まり場としての利用などはもちろん、備え付けの車でのドリフト遊びなんかもできちゃいます。 2025⁄12⁄06 VRC側の音響関連アップデートの影響で音の聞こえ方がおかしくなっています。 実装が安定して調整が済んだら修正アップデートを入れますので少々お待ちください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_849a73f5-c4f9-4e99-b4dd-1355b21c2918",
+					"Name": "淵森国際サーキット-ChikuwaVehicleSystem2-",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "CVS2搭載、オリジナルレイアウトで全長5․8km、ホームストレートは1․6kmにもなる国際クラスのサーキットです。 ハイスピードな車両の立ち並ぶ本コースだけではなく、手軽に楽しめるカートコースやドリフト広場、観覧車や撮影ブースも備えています。 2025⁄12⁄13 タイムランキングシーズン02開始、全車両挙動更新（エンジンV2化と足周り調整）、一部車両入れ替え、タイム計測機能をCRS2に更新、カートコースでもタイム計測ができるように、オープンホイールシリーズは現行挙動での調整が非常にシビアなため一旦非表示に（調整中の現状挙動はコラボピットの桜羽ことね号でチェックできます）。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_64667e7f-4678-4758-b7ac-9461f34c71a9",
+					"Name": "B北サーキット-ChikuwaVehicleSystem2-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ǃ音量注意-Volume warning-ǃ 某県にあるドリフトが盛んなサーキットのBコースをモチーフにしたワールドです。 焔火さんからの依頼で作成しました。 現在協議中の内容次第では、Aコースの仕上げ含め全体の雰囲気が変わる可能性があります。 2025⁄12⁄06 VRC側の音響関連アップデートの影響で音の聞こえ方がおかしくなっています。 実装が安定して調整が済んだら修正アップデートを入れますので少々お待ちください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8f72eebe-686c-4d4a-9149-8394fc44a033",
+					"Name": "神留坂-ChikuwaVehicleSystem2-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ǃ音量注意-Volume warning-ǃ オリジナルレイアウトの下りと上りで道が分かれる一方通行の険しい峠道を攻めるもよしドライブするもよしなワールドです。 ドライブ用のゆったりした車種やバイクも。 2026⁄01⁄18 複数車両においてステアリングが動かない問題の修正、DriftカテゴリのGT68C-2のホイール二重表示の修正。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_08802cde-7efa-4b88-8336-7a1b27dc2bc3",
+					"Name": "龍鉤山-ChikuwaVehicleSystem2-",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "ǃ音量注意-Volume warning-ǃ 約2․8kmのオリジナルレイアウト、岩がちな秋の狭路を駆け抜けるChikuwaVehicleSystem2搭載の岩山です。 いつも通りのドライブ、アタック、ドリフト車両と少しのバイクあり。各種休憩スペースや公園での撮影も。現在58車種実装済み。 2025⁄12⁄06 VRC側の音響関連アップデートの影響で音の聞こえ方がおかしくなっています。 実装が安定して調整が済んだら修正アップデートを入れますので少々お待ちください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0ac1d9ba-acd1-4800-b3f4-97962badbc26",
+					"Name": "双ツ鏡湖外周道~Night~ -ChikuwaVehicleSystem2-",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "ǃ音量注意-Volume warning-ǃ 1周約8kmの幅の広いオリジナルレイアウトの湖外周道の夜バージョンです。 いつものドリフト車のほか、グリップカーや初心者でも乗りやすいゆったりドライブのできる車、おまけにバイクも。 2025⁄12⁄15 YasuriRGの挙動調整、DriftカテゴリにWhirlWindを追加、同位置のD․V10を撤去。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_30a2fa28-85e5-44dd-931f-81d223d6d6f4",
+					"Name": "サクラドライブウェイ-Sakura Driveway",
+					"RecommendedCapacity": 24,
+					"Capacity": 28,
+					"Description": "桜並木をドライブできる全長約9kmのドライブコースです。-This is a driving course with a total length of approximately 9km where you can drive through rows of cherry blossom trees․ BGM˸Cefiro ＠ フリーBGM DOVA-SYNDROME OFFICIAL YouTube CHANNEL",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b1bc1d06-e1bc-49ed-aff6-77251d49f7ad",
+					"Name": "Over 300km Elevated Expressway",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "300kmを超えたスピードで駆け抜けてタイムアタックしましょう ⁄ Let's run through at a speed exceeding 300km and time attack",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_898ae138-ab50-4dbc-a52f-fe94b551eb4f",
+					"Name": "サクラドライビングパーク⁄Sakura Driving Park",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "桜並木を車で駆け抜けましょう。ボートや休憩スペースもあります。ゆるふわカーを1台追加。⁄Let's drive under the cherry tree․ There are also boats and break spaces․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cdf1eb16-068e-4421-b1d0-cc6231a38266",
+					"Name": "カイレンドライブシティ⁄KairenDriveCity",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "街や郊外を車やバイクでドライブできるワールドです。 （バイクのみデスクトップ非対応）⁄It is a world where you can drive a car or motorcycle in the city or suburbs․ （motorcycle only desktop not supported）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_20a39296-03ca-4175-9bfb-27da18f80e27",
+					"Name": "モミジドライブマウンテン⁄Momiji Drive Mountain",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "紅葉を見ながらドライブできます。山腹と山頂からグライダーで飛びまわれます。⁄You can drive while watching the autumn leaves․ Fly around in a glider from the mountainside and the summit․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_57f59034-25d1-4078-bdef-90c6d1c486f0",
+					"Name": "サザナミドライブアイランド-Sazanami Drive Island",
+					"RecommendedCapacity": 24,
+					"Capacity": 30,
+					"Description": "2024⁄9 Update 海岸線を車でドライブしたり、山の上からヘリコプターやグライダー、海からはホバーボードで水上移動したりすることができます。⁄You can drive along the coastline‚ travel by helicopter or glider from the mountains‚ or hoverboard from the sea․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d17dd042-47c1-462b-83df-9ebb952deada",
+					"Name": "ケベコールレイクサイドコース-Quebecol lakeside course",
+					"RecommendedCapacity": 24,
+					"Capacity": 30,
+					"Description": "ないなら作ろうホームコース。 1周1分ちょっとくらいで周回できればいい感じです。 車が動かなくなったら燃料切れ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b9a4b97d-8022-4e00-af10-ff9a03ab6b3d",
+					"Name": "SmallTownBike＆KartCircuit",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "CVS2 bike world creation practice․ It's a short course․ I hope you enjoy it․ 2024⁄09⁄08 Kart Added․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c0414ef8-2204-41e8-99d9-12cc6b59e0ab",
+					"Name": "LPC Kart Circuit",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "それっぽい風なサーキットです。タイムアタックとサーキット周辺のドライブができます。（LowPolyChikuwa） It's a circuit like that․ You can drive time attack and around the circuit․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a4c6fd9e-bb93-4d7d-a33f-fe1841bf953f",
+					"Name": "ワカバドライブロード-Wakaba DriveRoad",
+					"RecommendedCapacity": 28,
+					"Capacity": 28,
+					"Description": "新緑の道をドライブできる約全長7kmのドライブコースです。-This is a driving course that stretches for up to 7km‚ where you can drive along a road lined with fresh greenery․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f3b1b6c4-a9be-4b76-8f54-dd0b9a732bf7",
+					"Name": "ウミカゼドライブトレイル-Umikaze Drive Trail",
+					"RecommendedCapacity": 28,
+					"Capacity": 28,
+					"Description": "小さな島でゆっくりした乗り物を運転できます。海に落ちたら車両から降りてください。 -You can drive a slow vehicle on a small island․If you fall into the water‚ please exit the vehicle․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_06c1e4e8-e9ce-48cc-8095-30aa62cb3fc6",
+					"Name": "ドリフトパーク S․L․ （Drift Park Slide Lines）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "【CVS2】ドリフトを愛する全ての人へ。初心者でも楽しめるようにコースの道幅は広め＆ジムカーナエリア付き！ 写真・動画は「＃ドリフトパークSL」で投稿下さい！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cb112b42-b0ec-4ef4-aa7a-1d5ecf24eac5",
+					"Name": "Linx City Driving",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Let's enjoy driving in large city ǃ ・Car （4-seater） ・Sports Car （2-seater） ・Bus ・Motorcycle ・Helicopter ・Grapnel Gun ⁄ Glider",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_61304796-f310-462b-888f-e6e3cb8b97a8",
+					"Name": "Driving to Cape Roca",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Drive your vehicle to Cape Roca in Portugal‚ the westernmost point of Eurasia․ Onde a terra se acaba e o mar comeca（Here the land ends and the sea begins․）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6c29f186-a879-4ab1-b1d5-5644bf6dcd5b",
+					"Name": "Seven Mile Bridge",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Enjoy yourself to your heart's content on all land‚ sea and air vehiclesǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c4e61164-c854-42d3-a70c-17d0d68a141b",
+					"Name": "Space Colony ＂Island-4＂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "恒星間航行用の密閉型スペースコロニーです。 ⁄Created by S_ASAGIRI⁄⁄コライダーまわりの不具合を修正",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_66431182-f46c-45c9-9c8e-ba7f47c10177",
+					"Name": "VROOM VROOM DRIVE",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Added Vertical Fog․（9⁄12） Drive desert and City․Press Jump to get off․ 砂漠と町のドライブ ジャンプで降りられます。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_38156049-b995-492f-bcda-6e17efb1d9be",
+					"Name": "［UHR］ 'Dunes' 2․0",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Drive around in the Offroad LRV PROWLER and ATV Quadbikeǃ Featured with damage models and nice terrain․ More updates to comeǃ Have fun and Exploreǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_df5acb7a-554d-4d88-bd41-afcc5db228ff",
+					"Name": "com8's Desert Drive",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Drive an off-road car through a 4km x 2km desert․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cbd87cc3-ce86-4fa3-8432-b12c90fc5be6",
+					"Name": "ChikuwokaCityCircuit",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Timeattack in Japanese City․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bcf85a5e-e949-468c-8219-baf53a976041",
+					"Name": "com8's Dirt Trial",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2023⁄2⁄24 Updateǃǃ Powered by Chikuwa car system․ car model by regen2206‚ tuma_youzyo",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7d90e20e-04ab-4534-97aa-0997e59ef964",
+					"Name": "kuwanta Motorsports Park",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Powered by Chikuwa car system",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_06c5c62c-dacd-4705-9a98-031c6f302caf",
+					"Name": "Island Coast Landscape Drive",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "無料で配布されていたCoast Landscape Racing Trackのライティングをやり直して車とバイクを置いただけ⁄Powered by CVS2",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fe0f5b02-339f-468b-91c0-a7220df73a6a",
+					"Name": "Just教習 V2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2024⁄11⁄14 CVS2 updateǃ 道路交通法第六章第一節第八十四条 自動車及び原動機付自転車（以下「自動車等」という。）を運転しようとする者は、公安委員会の運転免許（以下「免許」という。）を受けなければならない。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e6b6ea55-7011-4cbe-b627-70336271550f",
+					"Name": "City Night Drive",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "CVS2を使った車やスクーターで夜の街をドライブしたり集まってミーティングしたりできるワールドです。車は2F⁄3Fにあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_67186e84-4c85-463a-8731-de207caa0ea9",
+					"Name": "RallyIsland",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Rally on the dirt Coast Landscape Racing Trackǃǃ ⁄Powered by CHIKUWA VEHICLE SYSTEM 2",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_070d0ab8-80cf-4801-bc55-b18898430a98",
+					"Name": "Jurassic Park VRC",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Jurassic Park drive イベント、配信など、許可いりません。ご自由にお使いください。 VRCは、自分にとって、自由な世界です。子供の頃の夢を叶えたくて作りました。 少しでも、誰かの思い出になれば嬉しいです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c175c6e3-c2a3-4b92-9860-e041cbc3ca46",
+					"Name": "ParaNexus Championship",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "レース用バイクに乗れるワールドです。 挙動頑張って作ってみたので乗ってみて！！ バーチャル世界でバイクをぶっ飛ばせ！ParaNexus Championshipはみんなで楽しむVRCバイクレースイベント。スピード勝負もテクニック勝負もアリ！友達と一緒に熱いレースを楽しもう。初心者も大歓迎、みんなでワイワイ盛り上がろう！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1ec4d00b-9598-4297-af3d-11236659b67a",
+					"Name": "Yamaha Motor - VR TRAIL",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "「VR TRAIL」は、静岡県周智郡森町のミリオンペタルバイクパークを再現したMTBのVRコースです。 走る楽しさを追求したスポーツ電動アシスト自転車シリーズ、「YPJ-MT Pro」「CROSSCORE RC」、や弊社のキャラクター「ニャイケン」にまたがり、本格的なトレール走行体験を楽しむことができます。 VRトレールはレーザー計測技術を用いてデジタルツインとして森林を再現しており、ダウンヒル、ジャンプ、パンプ、スピン、ドロップなど多彩なコースを提供します。 いつでもどこでも楽しめるエキサイティングなMTBライディングと森林浴を、「VR TRAIL」でお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_01285683-27db-4d24-aab4-204aba4af686",
+					"Name": "Drift Hills CVS2",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "Drift Hills originally made by TomDom․ Beginner friendly Drift track․ Good for learning how to Tandem․ Thumbnail made by Charlatte （dyls）․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fcf375fa-260e-4f18-8bc9-3d5199e238b4",
+					"Name": "Trackside Slide V2 Drifting",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "（New Cars added）CVS2 Drift zone in an abandoned train station yard․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_dfa521f0-a4b0-4801-aaf3-ea3e46f9c64d",
+					"Name": "Springfield Circuit Drift CVS2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Springfield Circuit is a completely fictional track․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_e4ecd2a7-2165-407a-80b5-2dcbebca0f7e",
+					"Name": "Cougar Circuit Drift CVS2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Cougar Circuit made by ZZPuma․ Converted into Vrchat with permission․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c94ab1d6-cc52-41f9-8cdb-6f7798171512",
+					"Name": "Ebisu Higashi （East） Course CVS2 Drift",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Ebisu Higashi Circuit made by Supr1k https˸⁄⁄vk․com⁄racingcultclub․ World thumbnail picture taken by˸ crabman823․ This is a fan-made‚ non-commercial world created for entertainment purposes․ Any trademarks or brand references remain the property of their respective owners․ This project is not affiliated with or endorsed by any manufacturer․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_30b576ef-3f40-4ddf-9461-10a2a83fa26c",
+					"Name": "Tatehara Touge -KK's Touge Drift V2-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "The original ＂KK's Touge Drift＂ is backǃ Powered by CHIKUWA VEHICLE SYSTEM 2（https˸⁄⁄booth․pm⁄ja⁄items⁄3129945） Map made by ＠DajaLevin2nd",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b0190e21-43b5-4381-b490-b1f5a8546be3",
+					"Name": "Chikuwa Drive Unlimited",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Cruising‚ Drifting‚ Off-roading‚ Drag racing․ Powered by Chikuwa car system https˸⁄⁄booth․pm⁄ja⁄items⁄3129945",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d47b6ac0-d8a2-4cac-9bac-b8411f3199a8",
+					"Name": "Suzuka twin circuit",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Drift ＆ Grip at Japanese local circuit․ Powered by CHIKUWA VEHICLE SYSTEM 2（https˸⁄⁄booth․pm⁄ja⁄items⁄3129945） Map made by ＠DajaLevin2nd",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3b4a0fa4-e791-4013-a117-6b1d977989e9",
+					"Name": "Rally Finland SS1＂Chikwan metsä＂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Realistic gravel rally stage․ Powered by CHIKUWA VEHICLE SYSTEM 2（https˸⁄⁄booth․pm⁄ja⁄items⁄3129945）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5b0c1255-c0e8-4962-ab3e-b10a3336df39",
+					"Name": "鍋城ふ頭コンテナターミナル ~Nabeshiro Wharf~",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Street Drag Racing ＆ Drifting․ Powered by CHIKUWA VEHICLE SYSTEM 2（https˸⁄⁄booth․pm⁄ja⁄items⁄3129945）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_609d9ff0-b222-4996-bceb-542f2f4368ae",
+					"Name": "Coast Fury Drift CVS2",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Drift driving world Chikuwa Vehicle System 2 originally GTA˸San Andreas mod by ZZ PUMA‚f1 cars added",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d0bc473d-ffbb-4b16-b2d0-019e6e99dfbe",
+					"Name": "東京～お台場 ドライブ Tokyo Diba Drive",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "日本の国土交通省が公開したPlateauデータを軽量化し道路を置いたふんいきドライブワールドです。余りスピードの出ないのんびり乗れる車もあるので運転下手な人も観光に来てください。 2024․10․6 Unity2022 CVS2․22にUpdate 少しおかしい所があるので修整継続",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_568f0cb5-a906-44e8-bd5b-c2eaad0f98c1",
+					"Name": "残暑秋晴ドライブロード",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "残暑秋晴ドライブロードは、九月になっても過ぎ去らない夏をイメージした田舎のドライブワールドです。完成する前に残暑が過ぎ去りました。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9a3e7956-2997-40fb-93ba-f04204cdc763",
+					"Name": "SayaTown",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "SayaTownは 14․5k㎡の広大なワールドで様々な建物、場所があり 電車、ロープウェイ、車、バイク、ヘリコプターなどのに乗り探索することができます。 観光スポットも多数あり！ みなさん、ぜひ遊びに来てね！",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5dfb74dc-c12b-459b-825e-32f89b9c29cc",
+					"Name": "都市高速３号湾岸環状線 - Urban Highway No․ 3 Bayshore Circular Route -",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ライティングに死ぬほどこだわりました。 車内にもライトが差し込み、高速道路特有のあの雰囲気が再現されています。 Japanese HighWay․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_406675b9-35f4-4664-80ed-4b7d5203df78",
+					"Name": "Akira ＂Kaneda Bike＂ Ride",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Akira ＂Kaneda Bike＂ Ride 20230322 mini_update（not WILD ver）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c6880840-1671-48d0-805d-553c83a7ea04",
+					"Name": "Autorace - OvalCircuit of JapaneseMotorcycleRace",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "オートレース的なオーバル。20230305 BikeSystem tuned․ Chattering resolved․ Henogohan add․ ChikuwaBike add․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f07f5279-a064-45d1-82fd-e978c64dbb36",
+					"Name": "MotorcycleMountain With RockLocationEdit",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "MotorcycleMountain VR-HMD controller only․ 20240808 update˸Rock Location Editor mod․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_21d57f05-1a66-4dbf-907c-125ff61646c0",
+					"Name": "Japan Showa City Drive",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "昭和っぽい町をドライブしたり。20240425 system update",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e11b5790-0b92-4e82-9207-9989ca84c218",
+					"Name": "ChikuwaGP ⁄ NakedClass",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Rideable CVS2 bike circuit․ Upload a photo of your time ＃ChikuwaGP ․ 20240502 WARP container add․ 20240506 VoiceRadio‚player add․20240508 AudioPlayer modifyed․ 20240511 VoiceRadio scope Clarified․ 20240816 system modify․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_46f5492c-b1ab-4fe6-ab42-3449b7b89918",
+					"Name": "六甲灯夜 -夜景音響-",
+					"RecommendedCapacity": 10,
+					"Capacity": 80,
+					"Description": "現実の六甲山をモチーフにした、 夜景×イルミ×ライブの体験型WORLD。 今夜だけの響く夜景を、あなたの目で。 ＃六甲灯夜 ---------------- 六甲の夜に、音と光の物語がはじまる。 夜景を見に来る人もいれば、走りに来る人もいる。 街の灯が遠く滲み、マフラーの音が山に響く。 みんな違う音を鳴らしながら、この夜を走ってる。 それでもこの場所では、すべての音が混ざり合い、 やがて光のリズムになる。 沢山の隠し要素お楽しみください。 モー助G 表六甲ver0․12 許可を得て使わして頂いています。 WORLDの不具合は、onioniまでお申し付けください。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6c2e2a3b-45ae-4bc9-9cb2-d2a81482827a",
+					"Name": "Forklift Simulator -Cargo Terminal2025-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Forklift Simulator -Cargo Terminal2025- 鉄道貨物ターミナルをモチーフにしたワールドです。 実際の大型フォークリフトに近い操作感を再現し、コンテナの積み下ろし作業に挑戦できます。 （東京大学入江研究室とコマツの共同研究プロダクトの一部をVRCワールドとして一般公開しています） ギミック制作：みっちー ワールドデザイン：きつねこ狐猫",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cdb96f32-4e35-4bbe-bf10-98ac9aa91616",
+					"Name": "FREEROAM DAIKOKU",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "DISCLAIMER˸ All contents belong to their respective owners․ Boothアバターに1․6mを推奨します ＠Updated˸ F81‚ JZS161‚ JZX100‚ SCIROCCO; SOUND IMPROVEMENT․635․83MB-≻639․02MB",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8ac2305e-6141-4eb4-b0e9-ea2c9d2b72a8",
+					"Name": "Hokyl Night",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "Possibly the largest∗ social driving world on VRChat․ Drive around a city at night with friends with a selection of vehicles from sporty econobox‚ to a lifted truck or even a full size RV that seats 20․ Fly‚ Glide or Drone around between buildings‚ mountains and bridges or experience the sights from the ground․ This is a very large map （121 Square KM） for literally hours‚ possibly days of exploration․ Recent performance updates increase FPS by as much as 2x on some hardware․ Current Vehicles˸ ＋ Modern Luxury Sedan ＋ 80's Drift Car ＋ Lifted Pickup Truck ＋ RV⁄Motorhome ＋ School Bus ＋ 70's American Style Sedan ＋ Classic Police Car ＋ 90's Minivan （Some vehicles may not be located at spawn‚ but spread around the world․） ∗ Largest in terms of drivable area and visual content",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dea560af-cc20-4cab-83c1-326420915e38",
+					"Name": "Lumarnity v2․0",
+					"RecommendedCapacity": 16,
+					"Capacity": 40,
+					"Description": "The Moon is extremely isolated․ Supplies from Earth are limited in both quantity and quality․ Under these circumstances‚ it is essential to build an energy self-sufficiency system and an infrastructure to circulate limited resources in order to realize a safe and comfortable long-term stay for human beings․ Lumarnity is a smart community designed to meet these challenges‚ known as the Lunar Smart Community․ It features an integrated lunar resource cycle and autonomous operations technology․ Version 2․0 （Release Date˸ 2025-06-01） includes major updates˸ - A driveable lunar rover‚ equipped with lunar tires modeled and provided by Bridgestone Corporation - A controllable Komatsu lunar machine‚ modeled and provided by Komatsu Ltd․ Explore the future of living and working on the Moon with Lumarnity VR․ Mail˸ lumarnity＠jgc․com ©2025 JGC CORPORATION",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e6b6ea55-7011-4cbe-b627-70336271550f",
+					"Name": "City Night Drive",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "CVS2を使った車やスクーターで夜の街をドライブしたり集まってミーティングしたりできるワールドです。車は2F⁄3Fにあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c438719e-9be1-4c8f-b166-3a2a6fd21e98",
+					"Name": "SPring-8",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "兵庫県にある大型放射光施設SPring-8の蓄積リング棟内を再現したワールドです。非公式です。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a00ce816-5115-400c-8026-93646b06702f",
+					"Name": "流転界世ドライブロード",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "流転界世（るてんかいせ）ドライブロードは異世界転移がテーマのドライブワールドです。WEB小説タイトルを20文字以下にするよう法改正を求めませんか？",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_58c00547-8dbd-4f54-a0a9-251e0183874c",
+					"Name": "into the Snowy midnight⁄running",
+					"RecommendedCapacity": 42,
+					"Capacity": 42,
+					"Description": "雪降る夜、私は宿を飛び出した。 （VRCドライブ部イベント用に作成したドライブワールドです。大人数での運転のため必要最低限に留めています）",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "艦船操縦可能ワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_529dbcdc-a5af-48bb-bc6c-edb42d7ab3ec",
+					"Name": "Sailing ＆ Boating 2․0",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Improved version of my sailing map with a higher level of realism and multiple boats․ Help Julie to find her missing little sister Momo and unravel the mystery of the anomalies․ Feedback on discord․gg⁄uMbn6EhaSN․ Visit the world store or join ko-fi․com⁄shiro_k if you want to support me․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_33ad188e-c79c-4b85-9351-89668ea02d0d",
+					"Name": "ポロックボートレース場⁄pollock boat racetrack",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "4人で競争できるボート場です。 観戦用モニターと3周レースができます。⁄It is a boating area where four people can compete․ You can have a monitor for watching and a 3-lap race․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7ef54852-7894-46e4-9935-7dacb78f81c5",
+					"Name": "Jetski Islet",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "Featuring 8 Jetskis‚ wave simulations‚ and unlockables‚ enjoy the beach and go for high scores on the leaderboardǃ Can you find all 16 duckies? Made by LiQua",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ce789223-8f3f-46ae-a8bd-84b2d91bc1d3",
+					"Name": "Orange Days",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Sunsetǃ Beach partyǃ Jetskisǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6d239385-d992-4734-87bf-d1ddebb01896",
+					"Name": "BOAT RACE 虫恋（虫恋競艇）",
+					"RecommendedCapacity": 16,
+					"Capacity": 48,
+					"Description": "VRChat内でフライングスタート方式のボートレース（競艇）ができます。尼崎競艇がモチーフです。 舟券も買えます（公式戦のみ）本格挙動になりました。スタート特訓モード追加しました。 技術開発部˸虫恋、赤狼、コーシー、あかるん、眞白みあ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_da1562ab-fdac-4539-898c-b952addb7c60",
+					"Name": "APOGEA",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Explore this post apocalyptic world driving boats equipped with working cannons‚ climb buildings and defend the outpost with rotating cannons․ A world by ＠metamorphosiVR ｜｜ Concept ＆ world design ＠Hellghorn‚ Nicola Buttari ｜｜Concept ＆ original music by ＠_metaveo‚ Andrea Serrapiglio",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2ad5bb30-adf7-4de1-ba50-ae9b6b4689fe",
+					"Name": "Jetski Rush",
+					"RecommendedCapacity": 12,
+					"Capacity": 16,
+					"Description": "Race with up to 16 players in a racing game inspired by your favorite kart racers through several different courses and use items to gain an advantageǃ Show them who's the fastestǃ Made by LiQua （Libes and Quap）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e851ae68-784b-41f4-977a-7753d778fde9",
+					"Name": "Navy Blue",
+					"RecommendedCapacity": 24,
+					"Capacity": 24,
+					"Description": "総員、戦闘配置！ カジュアルに遊べる、World of Warshipsのような艦隊戦ゲームです。 Action stationsǃ Casual naval shooter game like World of Warships․ ［24Players‚ Desktop ⁄ Android compatible‚ Special skins for Patreon］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4068995a-4fcd-4eaa-ace8-e413dfc7c176",
+					"Name": "Azure Sea Fishing",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "紺碧の海でボートに乗って、釣りやダイビングをして遊べます！海をよく見ているといろんな魚に会えるかも？ Take a boat ride in the azure waters‚ go fishing‚ and enjoy the great outdoorsǃ If you look carefully at the sea‚ you may see all kinds of fish․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cc28ffb2-f0a6-415c-9685-03cff8e72e0a",
+					"Name": "Whale Research VR",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "English follows Japanese․ 【三宅島クジラ鼻水PJ 応援ワールド】 三宅島クジラ鼻水プロジェクトって？ 2018年前後から三宅島で突如観測されるようになったザトウクジラ。彼らの吹く潮「クジラの鼻水」をドローンで採取、調査し、三宅島に訪れるザトウクジラ達からのメッセージを読み解きます。 プロジェクトサイト https˸⁄⁄readyfor․jp⁄projects⁄miyake-whale-blowpj このワールドでは、ザトウクジラが大海原で実際に行うアクションを再現していきます。現在、エスコートと呼ばれる子育ての様子とブリーチング（海面で大きく跳ねる姿）が観察できます。海の中でトリガーを引きながら両手で水をかくと、泳ぐことができます。 三宅島での調査の結果を反映するなど、随時アップデートしていく予定ですので、どうぞよろしくお願い致します。 【アンケートにご協力をお願いします！】 サイエンスコミュニケーションとしてのワールドの可能性を定量的に計測したいと考えています。 https˸⁄⁄forms․gle⁄5nqtXGSMZjSuN4qh9 使用音源 Mark Fischer https˸⁄⁄freesound․org⁄people⁄MBARI_MARS⁄sounds⁄403406⁄ 青山学院大学デジタルストーリーテリングラボの学生有志と担当教員個人によるワールドです。 Whale Research VR lets you experience the humpback whales' unique behaviors‚ such as ＂escort＂ and ＂breaching＂․ We created this VR world to support PR and science communication of ＂Miyakejima Island Whale Blow Project＂․ Japanese whale spemotrints plan to get the whale blow from the living humpback whale by using drones around Miyakejima Island since 2018 suddenly․ We hope visitors of this VR world to have kindness with whales and scientists and be more interested in․ The whale research team is asking financial support to buy drones․ Please check the tag ＂WhaleResearchVR＂ and ＂三宅島クジラ鼻水PJ＂․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_22acf040-22c8-4baa-acdb-56227a11c1ea",
+					"Name": "おやすみみずうみ - Garden in amber -",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "色づいた木の葉とススキの揺れる湖上から、琥珀色に透き通った水のなかへ・・・時間の流れが緩やかになる場所を辿って降りてゆきましょう The tranquil amber-hued lake involves both water surface and underwater spaces with cozy hallways‚ gardens‚ a bathroom‚ and several bedrooms‚ all creating a peaceful atmosphere․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_65bc1111-7eef-47e0-bede-bd14973091c3",
+					"Name": "Rainfall Abyss -Flood Sector-",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "雨見市に降り続ける雨を蓄える貯水槽と、それを住み込みで管理する保守作業員が暮らすコンテナハウス。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_84f03063-6013-43f6-a827-995a512a617e",
+					"Name": "春空の休息地 -BloomingSky Rest-",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "はるだーǃ さくらだーǃ ねこだーǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ec744f53-96c2-4aef-a5b6-391d8c9d5cf3",
+					"Name": "夏空の休息地 -Summer Bluesky Rest-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "なつだーǃうみだーǃねこだーǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
+					"Name": "夏宙の休息地 -Summer Starrysky Rest-",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "たまやーǃ かぎやーǃ ねこやーǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9749e8bd-d7b4-417d-84a5-1cf770189c88",
+					"Name": "ハロウィンボートTA2025",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "なんでこの季節はこうなんだ！․․․․․․あぁ、来てくれたのか。今年もハロウィンだ、俺はカボチャをこの先に届ける予定だったんだが、ここらは水害で催しどころじゃなくなっちまった。 ハロウィンの贈り物がそっくりそのまま支援物資に変わった訳だが、沈まず残った橋と俺のトラックはこのザマだ。エアボートは手配できたから、コイツで荷物を山の向こうまで運んでくれ。あ？トラックで突破する？あんた俺の話聞いてたか？",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3175143d-3c68-4719-9297-5f0145e059e2",
+					"Name": "Lost Valley Lake Retreat",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Grab your hiking boots‚ swimming trunks and some friends for this open world experience․ Get away from your day to day stress by exploring Lost Valley Lake Retreat by foot or on our jet ski's or drivable inner tubes․ Find your perfect place to relax and just take in all the natural beauty around you․ Take stunning pictures․ Find a campsite where you can turn on night mode and relax around the campfire․ You can also use the portable video player for a movie night in the woods․ Are you ready to retreat back to nature? ∗∗March-2024 Requested Player count increase ∗∗ Not recommended to run at full capacity∗∗․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e96ddd89-023e-41b0-bb0d-f7d8cbbf3e6f",
+					"Name": "Icebreaker「砕氷船」",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "船で流氷を砕いて進む、ということをやってみたくて作ったワールドです。 視界は悪いですが潜水艇もあります。 衝突の仕方によってはおかしな動きするかもしれませんがそれはそれとして遊んでいただければ･･･ 需要があるかは微妙な船ワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "その他乗り物",
+			"Worlds": [
+				{
+					"ID": "wrld_4bfcfe92-8889-43c3-8209-8c76bbabf9ca",
+					"Name": "四季の庭 -Four Seasons Garden-",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "季節移ろいゆく植物園。。。色とりどりの花を愛でお散歩やカフェでくつろいでみませんか？ ｜ 乗馬ギミック調整＆ポジションリセットスイッチ追加＆乗馬操作方法案内追加",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8ec08d31-29a7-4ce8-a3f5-37e8762a5d93",
+					"Name": "【新装開園】鰻重牧場 Ver․2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "バーチャル足立区の牧場が新装開園！ふれあいコーナーや乳搾り体験など、楽しいコンテンツがたくさん！是非皆様お誘い合わせの上、ご来園下さい。iOSも対応したよ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7703a148-7722-48c7-865c-48e6a887d93e",
+					"Name": "Driveable Steam Train",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "You can drive a little steam locomotive in this world․ 小さな蒸気機関車が運転できるワールドです。Mar 25 fixed some issues （quest version）․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_932b1b89-a4b2-4884-a509-dd571d99065b",
+					"Name": "湖畔の駅［Kohan no eki］",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "小さな鉄道ワールドです。蒸気機関車に乗り込んで運転することが出来ます。 8⁄7 セキュリティ三原則（機密性、完全性、可用性）をどっかに置いてきたSecurity Updateへの抗議で非公開としていましたが、情勢の変化に伴い再公開します。 EAC is a security issueǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f466709e-f226-478f-a598-b8a4ba52aa70",
+					"Name": "曙松鉄道曙松線［Akebonomatsu Railway］［Drivable Steam Trains］",
+					"RecommendedCapacity": 16,
+					"Capacity": 45,
+					"Description": "「日本から実用蒸気機関車が粗方消滅した1980年代。時代の変化はどこ吹く風と未だ褪せない汽笛が響き、今日も客車列車が山を登る」とある存在しない鉄道記事より。実機資料を参考に制作したVR蒸気機関車列車シミュレーターです。機関士と機関助士の二人以上前提。 広告募集中 EAC is a security issueǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_0518a6c4-c2d9-4efb-8f57-0299d52f5c3b",
+					"Name": "Dragon Island",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ドラゴンを操縦して空を飛ぶことができるフルスクラッチワールドです。VRCグループ： DRAGON․8527（更新通知など） This is a world created entirely from scratch‚ where you can pilot a dragon and fly through the skies․ VRC Group˸ DRAGON․8527",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b3a13d6a-b7b4-4bc5-b2ca-5c7c24042d36",
+					"Name": "ジェット鏡餅2024",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "日本の年中行事（諸説あり）をVRでも。2024年もよろしくお願いします。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a4052b16-3e9d-4689-8ce1-32a91441f882",
+					"Name": "ジェットこいのぼり2023",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "日本の伝統行事で空を飛ぶ 。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "ポータルワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_405d0f97-637a-420e-8396-ccf9c048edde",
+					"Name": "のりものポータル～かもめ～ Vehicle Portal Hub ＂Kamome＂ ver3․1",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is a vehicle-focused portal worldǃ Currently featuring over 360 portals （with more added regularlyǃ）․ A simple world prioritizing functionality․ 陸海空宇宙＋αの乗り物専門ポータルワールドです！現在ポータル数360以上（続々追加予定！）乗り物システム＂Sacc＂のチュートリアル完備。機能性重視のワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_03bb8d20-30ac-4542-ac03-e6362169f3ec",
+					"Name": "Levin's Portal Home Carrier",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "航空＆車中心のポータルワールド チルワ＆ホムワにもぜひ 飛行機も飛ばせるしバックショットルーレットもあります",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+					"Name": "［JP］ USiOPORT ウシヲポート",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "日本語対応Portal Worldです。",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
+					"Name": "［JP］クエストトビラ QUEST TOBIRA",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "クロスプラットフォーム・日本語対応ポータルワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7bd98a63-2d0d-4ae3-b015-093b3bcc866f",
+					"Name": "VR_TRAVEL",
+					"RecommendedCapacity": 40,
+					"Capacity": 64,
+					"Description": "For ALL TRAVELERS․․․HAVE A NICE TRIPǃ 実在する観光地をまとめたポータルワールドです！誰でも世界一周を目指せます。 ＃VRC世界旅行",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_60f43dc6-97ff-478f-9371-dd1f103feff5",
+					"Name": "PORTAL STORAGE-ポータルストレージ-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2025⁄12⁄31更新 WorldCount PC˸775 Quest˸575 左のPCワールドは景観の良いワールドを、 右のQuestワールドは様々なジャンルのを設置 サムネ画像をUSEする事でポータルが出現します",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e93bf929-a9de-461c-8a7d-f0ebda909352",
+					"Name": "ゲームワールド紹介ワールド≺クレイドル≻",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "ゲームワールド紹介ワールド≺クレイドル≻は、ゲームワールドを日本語で紹介しているワールドです。現在、約390件のゲームワールドを紹介しています。見つけたワールドにすぐに行けるポータルシステム実装！ Game Worlds Introduction World ≺Cradle≻ is a world that presents game worlds․ ［2023⁄09⁄25］バーチャルライフマガジン様に、紹介記事を書いていただきました！ URL˸https˸⁄⁄vr-lifemagazine․com⁄cradle⁄",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7d886815-4cc5-4f44-8adc-9a7e1774e6a6",
+					"Name": "［1］バーチャルFOXヤタノ 探訪ワールドポータル集１",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集その１です。すべてのポータルにポータルとレビューコメントとレビュー動画があります。第8回（2020⁄1⁄24）から第394回（2021⁄2⁄22）のだいたい300回分くらいあります。 This is Part 1 of a collection of portals of worlds that Virtual FOX Yatano （＠fox_yata9） has explored so far․ All portals have review comments and review videos․ There are about 300 portals from the 8th （1⁄24⁄2020） to the 394th （2⁄22⁄2021）․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_209404a1-219f-4eb1-86cf-0ae6d168ad77",
+					"Name": "［2］バーチャルFOXヤタノ 探訪ワールドポータル集２",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集その２です。第395回（2021⁄2⁄23）から第921回（2022⁄8⁄2）のだいたい500ワールドぶんくらいあります。 This is the fourth portal collection of worlds that Virtual FOX Yatano （＠fox_yata9） has visited so far․ There are about 500 worlds from the 395th （Feb 23‚ 2021） to the 921st （Aug 2‚ 2022）․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_07b6f22f-e420-4944-bfc7-73ff64ffb183",
+					"Name": "［3］バーチャルFOXヤタノ 探訪ワールドポータル集３",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集その３です。すべてのポータルにレビューコメントとレビュー動画があります。第922回（2022⁄8⁄3）から第1419回（2023⁄12⁄14）のだいたい500ワールドぶんくらいあります。 This is the third portal collection of worlds that Virtual FOX Yatano （＠fox_yata9） has visited so far․ All portals have review comments and review videos․ There are about 500 worlds from the 922nd （8⁄3⁄2022） to the 1419th （12⁄14⁄2023）․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ecb3cbb3-20f0-4912-b338-10dd1c6bd26e",
+					"Name": "［4］バーチャルFOXヤタノ 探訪ワールドポータル集４",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集その４です。すべてのポータルにポータルとレビューコメントとレビュー動画があります。第1420回（2023⁄12⁄15）から第1918回（2025⁄4⁄29）のだいたい500ワールドぶんくらいあります。 This is the fourth portal collection of worlds that Virtual FOX Yatano （＠fox_yata9） has visited so far․ All portals have review comments and review videos․ There are about 500 worlds from the 1420th （2023⁄12⁄15） to the 1918th （2025⁄4⁄29）․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5b335e5c-ff21-4b58-ba8c-73991457b3a8",
+					"Name": "［latest］バーチャルFOXヤタノ 探訪ワールドポータル集ロビー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "バーチャルFOXヤタノ（＠fox_yata9）さんがこれまでに探訪したワールドのポータル集ロビーです。最新はここで反映します。第1919回（2025⁄4⁄30）以降の紹介です。This is a collection of portals to worlds that Virtual FOX Yatano （＠fox_yata9） has visited so far․ The latest information will be reflected here․ This is an introduction to the 1919th visit （April 30‚ 2025） and beyond․ 20260125 ～2190追加",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_94f316c6-498a-4dc9-aab6-228de152e4ef",
+					"Name": "Portal World Collection",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ポータルワールドのポータルワールド！ジャンルごとにわけてあるよ！",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ba4b056b-b41f-4ecf-a26d-154d9513ae8a",
+					"Name": "えっぐぷらんとのポータルワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "【2026年2月2日ポータル追加˸Quest対応14個、PC Only43個、その他15個】お気に入りを整理する用。 3726個ぐらいあります。1、2階では写真撮影に良さそうなワールドなどを集めています。一応ジャンル分けしていますが、かなり大雑把かつ独断で分けています。3階では写真撮影以外のものが大半を占めています。［大型アップデート˸フロア移動時に、リスポーン地点も移動するようになりました。］",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c76026d3-8ff0-4c44-b0cc-3a290a7e3fc3",
+					"Name": "ポ。ーポータルのあるチルワー",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Quest対応、ポータルシステムのあるお部屋です。ワールドはざっくりと分類され、1000個以上あります。適宜ポータルが増えます。Qvペン、動画プレイヤー、Joinログあります。2025⁄12⁄26 ワールドを増やしました ジャンルも増やしました",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "動作テスト",
+			"Worlds": [
+				{
+					"ID": "wrld_1c29df98-a567-4a87-a680-f1e40694fd83",
+					"Name": "GUNDAM UC Test world Ver4",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "GUNDAM UC Test world",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_66f58a96-5be2-48c6-914a-f95b9cfa43a6",
+					"Name": "SEED Launch Test WIP",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "WIP SEED Test world",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_3b26a7ad-ac75-453d-a689-44646a39e190",
+					"Name": "G․U․N․D․A․M Ride testworld WIP",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Test world",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "private"
+				},
+				{
+					"ID": "wrld_43cb3e2f-4fcc-4d9e-968a-e0c848df5acf",
+					"Name": "BOOTH Street",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				}
+			],
+			"PermittedRoles": [
+				"テスター"
+			]
+		}
+	],
+	"Roles": [
+		{
+			"RoleName": "テスター",
+			"DisplayNames": [
+				"【じょー】"
+			]
+		}
+	]
+}
