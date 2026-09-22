@@ -5,6 +5,116 @@
 		{
 			"Category": "航空機メイン",
 			"Worlds": [
+{
+					"ID": "wrld_b19a48cb-8784-4303-907d-3562032114c8",
+					"Name": "サバノ飛行場観光センター -Sabano Aerodrome Tourist center-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "制作者が公開しているワールドのポータルワールドです。航空機に乗って遊ぶこともできます。ワールド音量25％以下推奨",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8d4bf615-db90-40a0-9c3b-a6318c0d425f",
+					"Name": "ニライカナイvr1․01",
+					"RecommendedCapacity": 8,
+					"Capacity": 20,
+					"Description": "ニライカナイvr1․01",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a042b2b0-ef92-44b5-9b20-98ef7f22d777",
+					"Name": "Phantom Flightǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Fight as the USA or the USSR in Naval Air Warfare‚ Use either the F-4 Phantom II featuring a fully functioning Radar⁄RWR System or the Yak-38 VTOL featuring fully animated and working flight instrumentsǃ World is a Work In Progress so some things will be adjusted and changed in the future․ Enjoy ＾-＾",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8fee122b-ad23-4ae7-9d8d-a2548a5b4ad0",
+					"Name": "FREE FLIGHT 2",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Sacchan_VRC様より公開されている航空機プレハブSacc's Flight and Vehicles Prefab を利用させて頂いて作成しています",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2251a1a8-7c90-4bbc-9885-cfad8c043245",
+					"Name": "ヨシキリ第二試験飛行場",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "夕暮れの渓谷をのんびり飛んでみませんか？タイムアタック機能も備えていますので、腕に覚えのある方は是非ワールドレコードに挑んでみて下さい。レコード更新の際は「＃ヨシキリ試験飛行隊」のタグと時間、名前、使用機体の分かる画像を添えてＸへ投稿して頂ければ、気付き次第ワールドへ掲載します（シュナイダー杯は水上機の記録のみが対象となります）。一部のショートカットは攻撃することで開通しますのでお気をつけて。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_799042a0-fda8-4741-a2cb-ee7ef9175830",
+					"Name": "Gulf Traning Base",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "ガルフィーのトレーニングベース",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_6d153aa3-3526-4a9c-8b08-455cc8e8a291",
+					"Name": "F-14A -Naval Interceptor-",
+					"RecommendedCapacity": 45,
+					"Capacity": 64,
+					"Description": "［V1․4․0］ Fly the legendary F-14A Tomcat from a carrier‚ and fight against MiG-23MLAs․ Dogfight other planes‚ enjoy the views from above‚ or watch the spectacle of others in flightǃ New Update˸ Fly around a brand new overhauled terrain and the SH-3 Sea Kingǃ",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3d266a17-1160-41e5-ad1a-34a99ab7b4ef",
+					"Name": "Missile dancing",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "超加速できるブースター付き輪廻と大量のミサイルを撃ってくるNPC砲台が置いてあるワールド A world featuring fighter jets equipped with super-acceleration boosters and NPC turrets that unleash a barrage of missiles․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bcb392c2-7c80-4c65-86f9-ff5e2c609ac3",
+					"Name": "White cliffs - Battle of Britain",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "BF109 e3 Vs Spitfire mk1a - swordfish mkII‚ Grumman Martlet （F4F Wildcat）‚ Westland Whirlwind mk1‚ he111‚ R-41 Gunboat‚ Bofors 40mm flak‚ Town-Class Destroyer and BF110",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_dc31eaa4-483e-4812-b7b0-f2ba3b20577b",
+					"Name": "sandbox_carrier",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "新ワールド公開しました！ New World Availableǃ このワールドは未完成であり、更新予定はありません。詳細は作者のtwitterをご確認ください。 This world is unfinished and will not be updated․ For details‚ please check the author's Twitter․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_01de54aa-b25c-43ea-9eae-b6a3d1e9f9b6",
+					"Name": "Fly the mountains",
+					"RecommendedCapacity": 12,
+					"Capacity": 22,
+					"Description": "最近見たとある動画に触発されて作りました。CV-22が6機、CH-53が4機、他小型ヘリが数機あります。 それ以外は特に何もありません。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d584b4d2-f20d-4338-a95d-1899dbaf8a8d",
+					"Name": "Viper Valley˸ F-16 vs MiG-29SMT",
+					"RecommendedCapacity": 16,
+					"Capacity": 64,
+					"Description": "My first ever flight world featuring the F-16 and MiG-29SMT․ su-24 and su-34 coming soon",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_90877b6f-f637-4d47-80e9-c06779048d80",
+					"Name": "SANKA Island",
+					"RecommendedCapacity": 16,
+					"Capacity": 60,
+					"Description": "test world",
+					"ReleaseStatus": "public"
+				}
+
+
+
+
+
+				
 				{
 					"ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
 					"Name": "Test Pilots",
