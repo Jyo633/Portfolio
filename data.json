@@ -5,7 +5,135 @@
 		{
 			"Category": "航空機メイン",
 			"Worlds": [
-{
+				{
+					"ID": "wrld_8770b59c-4c35-4478-baf9-78093e1a7b9f",
+					"Name": "108th Flight Training Airbase",
+					"RecommendedCapacity": 16,
+					"Capacity": 50,
+					"Description": "2024年1月同期会航空機部の部室として制作したワールドです。 どなたでもご自由にお使いください。 設置機体：MT-01 ⁄ T-24 ⁄ F-5 ⁄ F-14 ⁄ F-15 ⁄ F-104 ⁄ F-23 ⁄ Su-33 ⁄ Su-57 ⁄ AV-8B ⁄ Me 262 ⁄ Spitfire Mk․1 ⁄ Vampire T-11 ⁄ Bell 429",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_52fe0e21-d23f-48c7-89be-b61c007d9e1d",
+					"Name": "506th Tactical Aiirbase",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "陸上基地と空母を設置したシンプルなフライトワールドです。 設置機体：T-24 ⁄ F-4 ⁄ F-14 ⁄ F-15 ⁄ F-104 ⁄ F-111 ⁄ AV-8B ⁄ Su-33 ⁄ Rafale N",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_05334b28-c7f5-493c-881d-469634a99c90",
+					"Name": "東洋國航空基地",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "東洋國航空基地、東洋國最南端に位置する島2023⁄04⁄01更新 正式名称は「ユクチマ航空基地」",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3846fcf6-97ec-41d5-95f8-1091b2cb3d3b",
+					"Name": "Hawaii",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Hawaii ｜ F16 ｜ WIP",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a710a28d-7837-4c32-a4c9-e67cd0da9acd",
+					"Name": "第100対地攻撃訓練場⁄Ground attack training",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "sacc1․7に変更し機体も一新しました。Radio zoneは深緑円内です。対空砲は破壊することができ、破壊してから5分後にリスポーンします。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_710e0b2a-55b6-444e-8320-98b02c801352",
+					"Name": "東洋國航空基地2026（ EF Air Base）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Eastern Fleet Air base 2025 東洋艦隊の航空基地2026年度版 東洋國のエースパイロット達の専用機ハンガー",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c5e5982c-7e23-4610-8cb5-21278399dc18",
+					"Name": "Koyai Island",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "宇宙産業の島 こやい島",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_921d4b2a-8bb0-41ef-8853-7180a6e31865",
+					"Name": "アビキャン！～飛行機キャンプの旅～",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "飛行機に乗ってロケーション探し！ǃ着陸したら機体付属ギミックで設営！！！島に点在する面白いものを観光しよう！！！！",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9628f5d7-dde1-4f01-9563-467410f0a6e5",
+					"Name": "Oceadira Airport",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ポルトガルのはずれの小さな島のような、空港がある離島のワールドです。 民間機を中心に非武装の、操縦の簡単なものから飛ばしごたえのあるものまで様々な機体を置いています。 町や山中、海岸線の飛行、航空母艦への着艦など様々なシチュエーションの飛行が楽しめます。空撮カメラを管制塔屋上に設置しています。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ca618906-5db5-4df1-a57e-ead93271030e",
+					"Name": "Sora to Umi",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "とある群島の小さな飛行場です。軽飛行機のみを置いています。ボートもあるのでゆったり船旅も楽しめます。Sacc'sFlight1․8",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_738526cd-4d2e-452c-b30c-840857d3e6cb",
+					"Name": "うるめ練習飛行場-Urume Training airfield-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "SaccFlightを使用した初心者向け飛行機ワールドです。操縦席に説明がある飛行機などが配置されています。 ワールド音量25％以下推奨です。飛行機どうしは無線が繋がっています。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_f0f07009-863a-4f0c-a086-e29eb056cc68",
+					"Name": "JAG Assets˸Classic aircrafts",
+					"RecommendedCapacity": 40,
+					"Capacity": 40,
+					"Description": "26⁄07⁄18 Published 複葉機やWW1期の戦闘機に乗れるワールドです。 Sacc's Flight and Vehicles 1․8․1 置いてある飛行機はboothにて購入できます。 https˸⁄⁄jagassets․booth․pm",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_44a4e7a2-7bb3-4575-955e-e24ca35b5ce0",
+					"Name": "Sunset Flight",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "一日が終わろうというとき、夕陽が全てを赤く染める",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5b047849-4d8d-4b7c-be9e-82b1aee48f5b",
+					"Name": "ヨシキリ滑空基地（仮）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "グライダーや非武装機体で大空をのんびりと舞うワールドです。山や離島、水没ビルの付近には上昇気流があるので、グライダーで風を掴めば高度を稼ぐことも可能です。が、未だ建設途上のワールドなので、今後も何か思い付けば更新する予定です。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_8cabbcc7-e4d5-4203-ba8e-78375eaee7bc",
+					"Name": "die Insel Vögel",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "フォーゲル島はバルト海に浮かぶ島。 戦後建設された娯楽目的の飛行場が存在する。 写真などをXでツイートする際、タグ「＃フォーゲル島」を付けてもらえると嬉しいです！（本ワールドは空戦等を行うワールドでは無い為、意図的に射撃を不可にしています。）",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_39515b4c-36c5-4e0b-959e-ece318384025",
+					"Name": "Come Fly With Me",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "This is a world for listening to music while driving‚ and or performing aerial acrobatics․ fly through obstacles and pull off some crazy stunts․․․If you have the skill that is․",
+					"ReleaseStatus": "public"
+				},
+				{
 					"ID": "wrld_b19a48cb-8784-4303-907d-3562032114c8",
 					"Name": "サバノ飛行場観光センター -Sabano Aerodrome Tourist center-",
 					"RecommendedCapacity": 16,
@@ -108,13 +236,7 @@
 					"Capacity": 60,
 					"Description": "test world",
 					"ReleaseStatus": "public"
-				}
-
-
-
-
-
-				
+				},
 				{
 					"ID": "wrld_e4908cea-023b-4749-9ad7-a898b12996e7",
 					"Name": "Test Pilots",
@@ -2481,7 +2603,7 @@
 					},
 					"ReleaseStatus": "public"
 				},
-{
+				{
 					"ID": "wrld_41c7c3d7-3d3d-4073-8901-d2380a963a00",
 					"Name": "R․94 CV Charléans",
 					"RecommendedCapacity": 16,
@@ -2711,6 +2833,38 @@
 		{
 			"Category": "車メイン（Sacc)",
 			"Worlds": [
+				{
+					"ID": "wrld_64fb53a8-f724-47bc-bdbc-26c653d0ab40",
+					"Name": "空港用大型化学消防車サンプルワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "BOOTHで販売している空港用大型化学消防車 TAF-125C のサンプルワールドです。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_46ab7994-76d8-4433-8672-b8f7ef722bf1",
+					"Name": "火吹島空港【整備不良空港】",
+					"RecommendedCapacity": 25,
+					"Capacity": 32,
+					"Description": "このワールドは、TOBIUOさんが制作した空港用大型化学消防車を使用し、火災を起こした航空機や建物を消火することのできるワールドです。 航空機は稼働率の増加にともなって故障（火災）の確率が増えるほか、一定の条件によっても火災を発生させます。 エンジンから火災が発生した機体は警報が鳴り、出力低下しますので、緊急着陸をし、消防車に消火してもらいましょう。 ロールプレイもできるよう、管制塔設備や燃料車補給車なども用意しました。よければ楽しんで行ってください。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_2c39de22-8fa5-4744-a38c-ff3bb5a63907",
+					"Name": "Helka Canyon Race",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Hover Vehicle Race",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_716e4c58-7154-4176-ab81-32ebb55cf9c4",
+					"Name": "Nada Desert Race",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Hover Vehicle Race 2nd",
+					"ReleaseStatus": "public"
+				},
 				{
 					"ID": "wrld_23a71afe-bb9d-4a62-b4c4-264dbd842c0c",
 					"Name": "パンジャンドラムサーキット",
@@ -4512,6 +4666,14 @@
 		{
 			"Category": "ポータルワールド",
 			"Worlds": [
+				{
+					"ID": "wrld_a097c251-66cb-437e-a6ce-b444b37e375a",
+					"Name": "Avia Hub",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Avia HUB - Your Aviation Hub in VRChatǃ A massive collection of 150＋ portals leading to the coolest aviation worlds created by legendary developers․ From motorless gliders soaring above the clouds to ferocious fighter jets from different countries and eras․ From autogyros to helicopters - everything most interesting and uniqueǃ Step into the hangar‚ jump through the portals‚ add your favorite worlds to your favorites list‚ and just enjoy the thrill of flyingǃ",
+					"ReleaseStatus": "public"
+				},
 				{
 					"ID": "wrld_405d0f97-637a-420e-8396-ccf9c048edde",
 					"Name": "のりものポータル～かもめ～ Vehicle Portal Hub ＂Kamome＂ ver3․1",
