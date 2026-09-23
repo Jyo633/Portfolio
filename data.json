@@ -2480,8 +2480,233 @@
 						"iOS": false
 					},
 					"ReleaseStatus": "public"
+				},
+{
+					"ID": "wrld_41c7c3d7-3d3d-4073-8901-d2380a963a00",
+					"Name": "R․94 CV Charléans",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "World for practising aircraft carrier landings",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_e2b44deb-6556-4aaf-b1dd-bf80f45ed9f7",
+					"Name": "MMD with aircraft",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_d0a403e8-62e3-4831-b0a2-caceeee3acff",
+					"Name": "Mountain Top Airbase （SF 1․4）",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Aircraft carrier ＆ Airbase․ Includes 4 F-4E Phantoms‚ 4 Mig-21 Bis‚ and 2 F-5E",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_aa46b142-ff17-4966-b5ee-3be4129c0fed",
+					"Name": "Flippers FLIGHT WORLD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "超機動性を備えた飛行機で踊り狂うためのワールドです。 このワールドはSacchan_VRC様より公開されている航空機プレハブ を利用させて頂いて作成しています。ありがとうございます。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cc87574e-feae-4fb0-aa97-7bdac8ff9f47",
+					"Name": "GenericSkyWorlds-TFFJ-FDMi-250121",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Update To Caribbean Crasy Airports ［TFFJ］․ Thanks to esnya․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_3105bd6c-0893-4fe0-9ec0-9feb3fb7bb88",
+					"Name": "あやや島空港",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "空母にIFLOLSとLRLLS、LSOを設置、カタパルトは機体外部から操作が可能です。アレスティングワイヤーが引っ張られて伸びます。滑走路以外は30knの速度制限があり、超過すると壁が出現して止められます。武装は双方が無効化モードをオフにすることで使用可能になります。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_990ad4e4-ba4e-4263-858f-c17c414abe7a",
+					"Name": "日本語話者向け空港 「海音空港」 AMANE AIRPORT",
+					"RecommendedCapacity": 20,
+					"Capacity": 24,
+					"Description": "日本語話者向けの空港ワールドです。パブリックインスタンスでも気軽に使えるよう制作しています。飛行に重点を置いているため、航空機はすべて非武装です。多彩な航空機や無線、牽引車、AD Chartや管制設備、展望デッキや外柵の公園など、最低限の空港運用設備や航空機を楽しめる設備をそろえています。公式タグ：＃AMANE_RVNE",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_cb7ad501-a90b-4dde-9e79-3e45547dcb2f",
+					"Name": "Persian Gulf - Beta ⁄ Quest",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "Experimental world using SaccFlight․ Preview version․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_11700ea7-93aa-4f16-876b-4013159f8a5a",
+					"Name": "Warfare 1918",
+					"RecommendedCapacity": 14,
+					"Capacity": 28,
+					"Description": "WW1 Trench Map Avatar world with working vehicles and props for RP purposes․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c0d41455-6132-468e-855b-0716e1a87ee5",
+					"Name": "Schoolfry",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "蚊のごとく小さくなって教室を飛び回るワールドです。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_75360ecf-0c01-454e-bddd-355ce8d24fa0",
+					"Name": "Training merge for DogFight",
+					"RecommendedCapacity": 56,
+					"Capacity": 56,
+					"Description": "",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_733e77f2-633d-49a1-bd7a-94aaf17ba507",
+					"Name": "March Air Reserve Patriots Jet Team",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "Fly one of the Patriots Jet Teams seven Aero L-39 Albatros high-performance jet trainers This world was made for the VRC Patriots Jet Team and is not affiliated with any other teams․ Thumbnail by the VRC Patriots Jet Team․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_fc2e443c-d0f1-4fd4-81eb-60fea8a92830",
+					"Name": "【メモリアル】2023年12月同期会航空部アニバーサリーイベント",
+					"RecommendedCapacity": 16,
+					"Capacity": 64,
+					"Description": "2023年12月21日に行われた、『2023年12月VRC同期会アニバーサリー航空部エアショーイベント』にて使用したワールドに機体解説等を追加したワールドです。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ffed549e-a0bb-4b9c-a3b9-801b4e500bc8",
+					"Name": "荒天時発着艦訓練",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "比較的高波の海象で発着艦を行えるワールドです。ＤＤＨ以外は動揺があります。また、動揺はローカルでありますし動揺に伴いアバターが勝手に動くように錯覚し振動もありますから、酔いに弱い方は他艦船に移動しないか長くとどまるのはご遠慮ください。 SeaRAM甲板前面で風速等の設定が出来ます。ワールドとしては、風向は設置されている通り、相対風は30～40ktを想定しております。 格納庫前部側に休憩スペースがありますから、飛行で疲れたらぜひご利用ください。艦内へは、艦橋構造物左舷側にテレポーターがありますからぜひご利用ください。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_5abe2716-44de-4a9c-bb00-0507be746773",
+					"Name": "The Fighter Trainers of ＂425th VTFTW＂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "425th VTFTW（第425戦闘訓練飛行隊）の誇る中等練習機、軽戦闘機、そしてBVR向け特別仕様機（YM⁄SuperMOD）の練習機を自由に乗り回すことができるワールドです。",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7871a918-db00-4b3d-80a5-c6570be69773",
+					"Name": "青は高く、青は遠く",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "赦されぬ色を尚愛した",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7a001430-07b4-42f8-b24e-206a8dc75a8e",
+					"Name": "［WIP］（850km x 850km） SaccFlight Tests - Open World ［OWML］",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Update˸ Added YC-1000B⁄C-17․ Welcome to the middle of nowhere․This map is 850kms x 850kms‚ with a system that defeats floating point errors when flying․ Feel free to explore and fly․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ce18fff0-129d-4361-8a07-6ab2407227de",
+					"Name": "廿日島飛行場",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "小さな島の飛行場ワールドです。 プロペラ機をメインに置いています。 非武装機オンリーです。 BGM・スクリーンはワールド内のタブレットから操作できます。 SaccFlight 1․8․0 にて作成。 BGM提供：すっぽりねぶくろ",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b79528e2-dd26-40d5-83f9-ca2859d5ebca",
+					"Name": "へんたいひこうひとりでできるもん！ -Solo formation flight- （ver․F-2）",
+					"RecommendedCapacity": 5,
+					"Capacity": 22,
+					"Description": "最大6機の無人機とともに編隊飛行の練習ができるワールドです。ハッシュタグ ＃へんたいひとり ⁄ This world lets you practice formation flying with up to 6 unmanned aircraft․ Hashtag˸ ＃SoloFormationFlight",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_7792fe6f-3fb6-40d2-8960-9e8e1046cb66",
+					"Name": "Flight and a Swim",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "＂Step into the virtual oasis of 'Flight and a Swim‚' a lively VRChat world that seamlessly combines the thrill of swimming physics from vrcprefabs․com with the excitement of soaring through the skies in the SACCFlight and Vehicles prop airplane․ Dive into friendly competition with a billiards game and pens courtesy of VRCprefabs‚ or test your skills at skee ball‚ Drive around check out the camp sites․ go ice skating or skip some rocks․ ․․ Locate the great white sharks․watch out while flying as someone could be in the turrets and shoot you down․ Catch up with friends while enjoying an open URL video player‚ transforming this space into the ultimate hangout for watching anything together․ Whether you're relaxing by the virtual pool or taking to the skies‚ 'Flight and a Swim' is designed to keep the atmosphere entertaining and fun‚ offering a perfect blend of social interaction and immersive activities for a memorable virtual experience․＂",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4e6e0fd8-4288-41c3-b65b-3d015daf55ca",
+					"Name": "IslandFlights_BETA",
+					"RecommendedCapacity": 16,
+					"Capacity": 26,
+					"Description": "Saccflight flight world ［ ［ BETA release ］ ］ Update 2․13․6-B",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_987ac72f-65e9-48af-a6ce-247ede1c395e",
+					"Name": "Pine fold ＆ sacc Flight",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Pine fold ＆ sacc Flight",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_c5862269-c687-446c-b3ae-ba980fdbeec2",
+					"Name": "すやみーる -Suya Mile-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「寝部屋でも軽くふわふわ飛びたい」そんな思いを形に。戦闘機等の音が気になる方は防音室へ。ドッグファイト用テレポートとヘリ用テレポート有り。Sacc's1․8。VizVid。 This room is for you to sleep in․ If you are concerned about the sound of fighter jets and other noises‚ go to the soundproof room․ Teleports for dogfighting and helicopter teleports are available․ Last updated 26⁄9⁄1",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_08329396-3c3f-458c-94b0-6ecf6fc28d8f",
+					"Name": "【WIP】 AHI機体 試乗用ワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 64,
+					"Description": "World Language˸ JP Only AHI TestDrive World 機体試乗用ワールド",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_b2e26b08-67e3-4725-b6f9-e60151273fee",
+					"Name": "ひじりの飛行場カフェ",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "イベント ［ひじりの飛行場カフェ］用ワールド 詳しくは製作者Xアカウントまで 開催日 毎週土曜日",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_4acd6ab2-5dfa-42a7-bd53-e33249e7c12b",
+					"Name": "船・回転翼・箱 Ships‚ Helos‚ and Cargoes",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "走っている駆逐艦にヘリで着艦したりVERTREPしたりできるワールドです。 This is a world where you can land or VERTREP on a moving destroyer by helicopter․",
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_04612fdf-40bc-486c-922e-0911be6dcd92",
+					"Name": "Harrier Sumoǃ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ハリアー含むVTOL機で相撲ができます！ リス地に説明書き、ギミック操作、テレポータあります 5種類、10機あるのでVTOL機での編隊飛行にもどうぞ 船へのテレポータもあります",
+					"ReleaseStatus": "public"
 				}
 			]
+
+
+
+
+
+
+
+				
+			
 		},
 		{
 			"Category": "車メイン（Sacc)",
